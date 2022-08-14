@@ -14,7 +14,7 @@
 {"key":"csp_DY1990","name":"🐞九零影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_SP360","name":"🐞360视频","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},  
-{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"},  
+
 {"key":"csp_Smdyy","name":"🦄电影院","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_ZJMiao","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_KanSJ","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -35,7 +35,8 @@
 {"key":"csp_LiteApple","name":"🍎小苹果HD","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp082.txt"},
 {"key":"csp_JianYing","name":"🔥简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
 {"key":"csp_Kmys","name":"🔥酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/kmys.txt"},
-{"key":"csp_SP293","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp081.txt"},
+//{"key":"csp_SP293","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp081.txt"},
+{"key":"csp_SP293","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/XBiubiuLA4.jar;md5;EA456650576D57B9FC72970C8CD31132"},
 {"key":"csp_Kuaikan","name":"🔥快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp081.txt"},
 {"key":"csp_Xxys","name":"🔥小熊影院(SP)","type": 3,"api": "csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp061.txt"},
 {"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp081.txt"},
@@ -54,7 +55,8 @@
 //{"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
   
 {"key": "AliPS","name": "🐞盘搜","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/top94.jar;md5;DCA206EAC3FCE821EEFC6956B1EB0061"}, 
-{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "1f373a68733e4dafa5fa28dca9826b35","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/top94.jar;md5;DCA206EAC3FCE821EEFC6956B1EB0061"}, 
+//{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "1f373a68733e4dafa5fa28dca9826b35","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/top94.jar;md5;DCA206EAC3FCE821EEFC6956B1EB0061"}, 
+{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"},  
 {"key": "FindZY","name": "🐞找资源","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dcbc975ad0684eb5a498ecd1836272e6","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/top94.jar;md5;DCA206EAC3FCE821EEFC6956B1EB0061"}, 
 {"key": "push_agent","name": "🐞推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "dcbc975ad0684eb5a498ecd1836272e6","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/top94.jar;md5;DCA206EAC3FCE821EEFC6956B1EB0061"},  
   
