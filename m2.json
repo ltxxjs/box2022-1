@@ -1,5 +1,7 @@
 {
 "spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWL2xpdmUyMDIyMDgxMC50eHQ="
+]}]}],
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
