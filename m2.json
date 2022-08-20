@@ -1,20 +1,17 @@
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-
-//"spider":"https://gitea.com/ltxxjs/happy/raw/branch/main/Thejar/0724.jar",
-"spider":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxJar/qj0809.jar;md5;74b9a568f61a45facff306cc85283c6e",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vQWl5b3V0ZW5nL2hhcHB5L3Jhdy9icmFuY2gvbWFpbi9UaGVUVi9saXZlLnR4dA=="
-]}]}],
-
-"sites":[
-{"key":"csp_SP360","name":"🎾360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"293视频","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_hbys","name":"📺简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
-
+"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
+"sites": [
+{"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_IKan","name":"🐞爱看HD","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"csp_Bttoo","name":"🐞两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Wmkk","name":"🐞完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Lib","name":"🐞Libvio","type": 3,"api": "csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Zxzj","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DY1990","name":"🐞九零影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/wjj415/wjj/raw/branch/main/gg.jar;md5;75f7bc3b0ca437ad8293f6ace1ad3e33"},
+{"key":"csp_SP360","name":"🐞360视频","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},  
 {"key":"push_agent","name":"🔗推送(阿里)","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
@@ -23,9 +20,9 @@
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXp/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXb/douyu.json"},
 {"key":"csp_appysv2_小熊影视","name":"小熊影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xxtv.lanrentk.cc/api.php/iptv/vod/"},
-{"key": "9E03","name": "🅾9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key": "bdys","name": "🔌哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXb/bidi.json"},
- { "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+
+{ "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "(18+)速度资源", "name": "(18+)速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "芒果18+", "name": "芒果18+(动漫不错)", "type": 0, "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/", "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=", "searchable": 0, "quickSearch": 1, "filterable": 0 },
         { "key": "ms4nii", "name": "美少女资源(已修复)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
@@ -479,7 +476,7 @@
 {"name":"融兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=wuM6hZbINH2KlmHEdY&url="},
 {"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
 {"name":"线路M9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
-{"name":"优解001","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+//{"name":"优解001","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"Pro2","type":1,"url":"https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=","ext":{"flag":["ltnb","rx","qiyi","爱奇艺","qq","奇艺","sohu","letv","youku","优酷","mgtv","芒果"]}},
