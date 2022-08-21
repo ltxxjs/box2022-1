@@ -1,5 +1,5 @@
 {
-"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
+"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box285.jar;md5;34ED41FF20791444998C5C9D3476131B",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWL2xpdmUyMDIyMDgxMC50eHQ="
 ]}]}],
 "sites": [
