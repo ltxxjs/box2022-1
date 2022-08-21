@@ -381,12 +381,12 @@ https://raw.fastgit.org/
 
 https://raw-gh.gcdn.mirr.one/
 
-https://cdn.staticaly.com/gh/liu673cn/box/main/dc.json
+https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/m.json
 
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/dc.json
+https://cdn.jsdelivr.net/gh/ltxxjs/box2022-1@main/m.json
 
-https://purge.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://purge.jsdelivr.net/gh/ltxxjs/box2022-1@main/m.json
 
 https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json
-
+https://raw.iqiq.io/ltxxjs/box2022-1/main/m.json
 
