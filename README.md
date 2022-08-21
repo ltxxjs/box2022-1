@@ -388,5 +388,6 @@ https://cdn.jsdelivr.net/gh/ltxxjs/box2022-1@main/m.json
 https://purge.jsdelivr.net/gh/ltxxjs/box2022-1@main/m.json
 
 https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json
+
 https://raw.iqiq.io/ltxxjs/box2022-1/main/m.json
 
