@@ -66,12 +66,8 @@
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"3781469b13074e4cac1e0e7113e4fa20"}, 
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},  
 {"key": "AliPS","name": "🐞盘搜","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/top94.jar;md5;DCA206EAC3FCE821EEFC6956B1EB0061"}, 
-{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "1f373a68733e4dafa5fa28dca9826b35","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/top94.jar;md5;DCA206EAC3FCE821EEFC6956B1EB0061"}, 
-//{"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"},  
-//{"key": "FindZY","name": "🐞找资源","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dcbc975ad0684eb5a498ecd1836272e6","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/top94.jar;md5;DCA206EAC3FCE821EEFC6956B1EB0061"}, 
-//{"key": "push_agent","name": "🐞推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "3781469b13074e4cac1e0e7113e4fa20"},  
-  
-//
+{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "1f373a68733e4dafa5fa28dca9826b35"}, 
+
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/agemys.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/yinghua.json"},
