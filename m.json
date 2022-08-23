@@ -33,7 +33,7 @@
 {"key":"搜狐(官源)","name":"⚽搜狐(官源)","type":0,"api":"https://www.ddzyz1.com/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"]}, 
 {"key": "csp_555","name":"5️⃣️五五五(SP)","type":3,"api": "csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}, 
   
-{"key":"csp_QQ","name":" 🍅腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp061.txt"},
+{"key":"csp_QQ","name":" 🍅腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp061.txt"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp061.txt"},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp061.txt"},
 {"key":"csp_LiteApple","name":"🍎小苹果HD","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp082.txt"},
