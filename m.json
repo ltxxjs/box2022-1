@@ -2,7 +2,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box285.jar;md5;34ED41FF20791444998C5C9D3476131B",
-"spider":"https://raw.iqiq.io/ltxxjs/box2022-1/main/jar/08241.jar;md5;249874a148738f97fc317bf5bbe45515",
+"spider":"https://raw.iqiq.io/ltxxjs/box2022-1/main/jar/0822.jar;md5;859fca3d0512c717e463a1f1ac70d9ae",
 //"spider":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/raw/main/jar/08241.jar;md5;20b9a81e6db2c7cf8c8eac8cfed30b16",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
