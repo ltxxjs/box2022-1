@@ -56,25 +56,16 @@
 {"key":"csp_Bliqx","name":"🏀大球小球(SP)","type":3,"api":"csp_Bliqx","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.txt"},
 
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0821w.jar;md5;DE0BC94AA73B65BB543D368CA0393244"},
-//{"key": "Gitcafe","name":"📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0821w.jar;md5;DE0BC94AA73B65BB543D368CA0393244"},
-//{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0821w.jar;md5;DE0BC94AA73B65BB543D368CA0393244"},
-//{"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0821w.jar;md5;DE0BC94AA73B65BB543D368CA0393244"},
-//{"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0821w.jar;md5;DE0BC94AA73B65BB543D368CA0393244"},
 {"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
-  
 {"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"}, 
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"3781469b13074e4cac1e0e7113e4fa20"}, 
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},  
-//{"key": "AliPS","name": "🐞盘搜","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/top94.jar;md5;DCA206EAC3FCE821EEFC6956B1EB0061"}, 
 {"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "1f373a68733e4dafa5fa28dca9826b35","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.txt"}, 
+//{"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
 
-{"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
-//{"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
-//{"key": "csp_AliPS","name": "💿云盘搜(仅搜索)","type": 3,"api":" csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
-//{"key": "csp_Yiso","name": "🔍一搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "3a49cf29cf20410997247c6eb4509be9"}, 
  
- 
- 
+{"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
+{"key": "bdys","name": "🧲磁力高清","type": 3,"api": "csp_XPbd", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%A3%81%E5%8A%9B.json","jar": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/cili.jar"}, 
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/agemys.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/yinghua.json"},
