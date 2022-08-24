@@ -3,7 +3,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box285.jar;md5;34ED41FF20791444998C5C9D3476131B",
 "spider":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/raw/main/jar/08241.jar;md5;3c598da030e00dc2a1657252412bd33c",
-//"spider":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/raw/main/jar/0822.jar;md5;20b9a81e6db2c7cf8c8eac8cfed30b16",
+//"spider":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/raw/main/jar/08241.jar;md5;20b9a81e6db2c7cf8c8eac8cfed30b16",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
