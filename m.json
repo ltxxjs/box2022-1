@@ -57,7 +57,7 @@
 {"key":"csp_Bliqx","name":"🏀大球小球(SP)","type":3,"api":"csp_Bliqx","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.txt"},
 
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0821w.jar;md5;DE0BC94AA73B65BB543D368CA0393244"},
-{"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
+{"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/raw/main/jar/0822w.jar"},
 {"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"}, 
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"}, 
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},  
