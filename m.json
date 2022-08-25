@@ -2,8 +2,8 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box285.jar;md5;34ED41FF20791444998C5C9D3476131B",
-"spider":"https://raw.iqiq.io/ltxxjs/box2022-1/main/jar/08241.jar;md5;249874a148738f97fc317bf5bbe45515",
-//"spider":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/raw/main/jar/08241.jar;md5;20b9a81e6db2c7cf8c8eac8cfed30b16",
+"spider":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/main/jar/XC0823w.jar;md5;1be418d52ccb190a16041d777538e4cd",
+//"spider":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/main/jar/XC0823w.jar;md5;20b9a81e6db2c7cf8c8eac8cfed30b16",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -14,7 +14,7 @@
 {"key":"csp_Zxzj","name":"🐞在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐞Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DY1990","name":"🐞九零影视(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/sp06.txt"},
-{"key":"csp_DiDuan","name":"🐞低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/raw/main/jar/0822w.jar"},
+{"key":"csp_DiDuan","name":"🐞低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_SP360","name":"🐞360视频(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},  
 {"key": "csp_剧荒","name": "👿剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":0,"quickSearch":1,"filterable":1},
 {"key": "csp_Yj1211","name": "📸直播合集(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},  
@@ -56,13 +56,13 @@
 {"key": "csp_Blixq","name":"🎈国粹戏曲","type":3,"api":"csp_Blixq","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/ext/戏曲.txt"},
 {"key":"csp_Bliqx","name":"🏀大球小球(SP)","type":3,"api":"csp_Bliqx","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.txt"},
 
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0821w.jar;md5;DE0BC94AA73B65BB543D368CA0393244"},
-{"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://github.91chi.fun//https://github.com/ltxxjs/box2022-1/raw/main/jar/0822w.jar"},
-{"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"}, 
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
+{"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
+{"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"}, 
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"}, 
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},  
-{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.txt"}, 
-//{"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3a49cf29cf20410997247c6eb4509be9"},
+{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3a49cf29cf20410997247c6eb4509be9"}, 
+//{"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 
  
 {"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
