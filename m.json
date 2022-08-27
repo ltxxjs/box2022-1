@@ -63,6 +63,8 @@
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20"},  
 //{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3781469b13074e4cac1e0e7113e4fa20"}, 
 {"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
+{"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Alist2","name":"💿Alist2","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
 
  
 {"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
