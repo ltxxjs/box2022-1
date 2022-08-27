@@ -44,7 +44,7 @@
 {"key": "csp_xpath_xxj","name": "*聚优AV","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/ltxxjs/tinghao/raw/branch/main/18/*聚优AV.json"},
 {"key": "csp_xpath_xxj","name": "老鸭TV","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/ltxxjs/tinghao/raw/branch/main/18/老鸭TV.json"},
 {"key": "csp_xpath_xxj","name": "黄仓库","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/ltxxjs/tinghao/raw/branch/main/18/黄仓库.json"},
-{"key": "csp_xpath_xxj","name": "*香蕉视频3","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/ltxxjs/tinghao/raw/branch/main/18/*香蕉视频.json"},
+{"key": "csp_xpath_xxj","name": "*香蕉视频3","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/ltxxjs/tinghao/raw/branch/main/18/*香蕉视频.json"},
 
         
         
