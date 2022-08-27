@@ -2,8 +2,8 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box285.jar;md5;34ED41FF20791444998C5C9D3476131B",
-"spider":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/XC0823w.jar",
-
+//"spider":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/XC0823w.jar",
+"spider":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/ggg.jar;md5;d6af0ff31f7b42b63349f1892ba545ee",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -27,7 +27,6 @@
 //{"key":"优酷(官源)","name":"🏀优酷(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动画片","国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},  
 //{"key":"PPTV(官源)","name":"📺🏐PPTV(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动画片","国产剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","综艺","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},
 //{"key":"搜狐(官源)","name":"⚽搜狐(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动画片","国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},
-//{"key":"csp_SP360","name":"💘360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/360yingshi.jar;md5;BB07000B1709876A6EB38EF490651633"},  
   
 {"key":"优酷(官源)","name":"🏀优酷(官源)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","国产剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","综艺","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"]},
 {"key":"PPTV(官源)","name":"📺🏐PPTV(官源)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","国产剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","综艺","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"]},
@@ -56,13 +55,13 @@
 {"key": "csp_Blixq","name":"🎈国粹戏曲","type":3,"api":"csp_Blixq","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/ext/戏曲.txt"},
 {"key":"csp_Bliqx","name":"🏀大球小球(SP)","type":3,"api":"csp_Bliqx","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.txt"},
 
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "dcbc975ad0684eb5a498ecd1836272e6"},
-{"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
-{"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}, 
-{"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}, 
-{"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},  
-{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}, 
-//{"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3781469b13074e4cac1e0e7113e4fa20"},
+{"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
+{"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"3781469b13074e4cac1e0e7113e4fa20"}, 
+{"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"3781469b13074e4cac1e0e7113e4fa20"}, 
+{"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20"},  
+//{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3781469b13074e4cac1e0e7113e4fa20"}, 
+{"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
 
  
 {"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
