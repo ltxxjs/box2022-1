@@ -1,8 +1,6 @@
 {
 //"spider":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/0827.jar;md5;556f61ac1c13a3a3246dbe28afc592bd",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFkb3djaGl1MzY5LmdpdGh1Yi5pby9UVkJveC90di9zY2xpdmUudHh0"]}]}],
 
-// spider
 "spider":
 "https://shadowchiu369.github.io/TVBox/jar/sc.jar;md5;fa546425c146fe48b37e94ea0cbdef50",
 
