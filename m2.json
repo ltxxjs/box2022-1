@@ -28,9 +28,11 @@
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20"},  
 {"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
 {"key": "bdys","name": "🔌哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXb/bidi.json"},
-{"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Alist2","name":"💿Alist2","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
-       
+{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/cuijw/tvbox/raw/branch/main/jar/XC0823.jar"},
+{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/cuijw/tvbox/raw/branch/main/jar/XC0823.jar"},
+{"key":"csp_Alist","name":"alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"alist1$https://pan.hikerfans.com#alist2$https://drive.9t.ee#alist3$https://alist.youte.ml#alist4$https://wangpan.sangxuesheng.com#alist5$https://pan.142856.xyz"},       
 
         
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
