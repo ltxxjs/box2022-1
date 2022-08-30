@@ -1,0 +1,20 @@
+{
+  "classes": [
+    {
+      "type_name": "管理",
+      "type_id": "一级造价师管理"
+    },
+    {
+      "type_name": "计价",
+      "type_id": "一级造价师计价"
+    },
+    {
+      "type_name": "案例",
+      "type_id": "一级造价师案例"
+    },
+    {
+      "type_name": "计量",
+      "type_id": "一级造价师计量"
+    }
+   
+  ],
