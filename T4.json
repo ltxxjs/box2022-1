@@ -6,6 +6,7 @@
 	}],
 	"sites": [
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/xb/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=9f908347b43c46888c97a8630050d252&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/xb/Alist.json"},
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/xb/token.json"},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/xb/token.json"},
