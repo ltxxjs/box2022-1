@@ -1,9 +1,8 @@
 {
 	"spider":"https://raw.iqiq.io//ltxxjs/box2022-1/main/jar/alist.jar;md5;ba7ae39234ded7eeccfc422ac3af3e60",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
-		}]
-	}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
+	]}]}],
 	"sites": [
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://raw.githubusercontents.com/ltxxjs/box2022-1/main/xb/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"t4public","name":"T4公共hao","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=9f908347b43c46888c97a8630050d252&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
