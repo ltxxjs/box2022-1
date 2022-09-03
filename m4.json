@@ -6,8 +6,8 @@
 	"sites": [
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://raw.githubusercontents.com/ltxxjs/box2022-1/main/xb/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"t4public","name":"T4公共hao","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=9f908347b43c46888c97a8630050d252&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"Alist","name":"Alist1","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/xb/alist-1.json"},
-{"key":"Alist","name":"Alist2","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/xb/Alist.json"},
+{"key":"Alist1","name":"Alist1","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/xb/alist-1.json"},
+{"key":"Alist2","name":"Alist2","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/xb/Alist.json"},
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/xb/token.json"},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/xb/token.json"},
 {"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/xb/token.json"},
