@@ -306,7 +306,7 @@
 {"name":"ceshi","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}},{"name":"aiku","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="},
 {"name":"yemu","type":0,"url":"https://www.yemu.xyz/?url="},{"name":"gai","type":0,"url":"https://www.gai4.com/?url="},{"name":"okjx","type":0,"url":"https://okjx.cc/?url="},
 {"name":"爱酷","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
-{"name":"parwix","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}
+{"name":"parwix","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
 {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
