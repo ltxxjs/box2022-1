@@ -4,7 +4,7 @@
 
 "spider":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/0827.jar;md5;556f61ac1c13a3a3246dbe28afc592bd",
 "sites": [
-{"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://od.lk/s/MThfMzY1MjMyMjlf/77.jpg"},
+{"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
 {"key":"csp_CZSPP","name":"🐞厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IKan","name":"🐞爱看HD(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🐞两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
@@ -22,7 +22,7 @@
 {"key":"csp_KanSJ","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"🐞天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_QXBiubiu_80S磁力","name":"🏀80S磁力(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,        "ext":"https://gitea.com/wlcmc1972/test/raw/branch/main/QXB/80S磁力.json"},
+{"key":"csp_QXBiubiu_80S磁力","name":"🏀80S磁力(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/wlcmc1972/test/raw/branch/main/QXB/80S磁力.json"},
 //{"key":"优酷(官源)","name":"🏀优酷(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动画片","国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},  
 //{"key":"PPTV(官源)","name":"📺🏐PPTV(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动画片","国产剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","综艺","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},
 //{"key":"搜狐(官源)","name":"⚽搜狐(官源)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动画片","国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},
