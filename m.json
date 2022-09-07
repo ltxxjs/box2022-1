@@ -23,7 +23,14 @@
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"🐞天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QXBiubiu_80S磁力","name":"🏀80S磁力(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/wlcmc1972/test/raw/branch/main/QXB/80S磁力.json"},
-{"key":"简影","name":"🍀简影🍀","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},
+
+
+{"key":"低端","name":"低端","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"80S","name":"80s","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"简影","name":"简影","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"农民","name":"农民","type":4,"api":"https://vod.kooo.eu.org/t4/vip11fx64","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"泥巴","name":"🐞vip128","type":4,"api":"https://vod.kooo.eu.org/t4/vip11o128","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"优酷(官源)","name":"🏀优酷(官源)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","国产剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","综艺","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"]},
 {"key":"PPTV(官源)","name":"📺🏐PPTV(官源)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","国产剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","综艺","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"]},
 {"key":"搜狐(官源)","name":"⚽搜狐(官源)","type":0,"api":"https://www.ddzyz1.com/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"]}, 
