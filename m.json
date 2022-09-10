@@ -5,6 +5,7 @@
 "spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/2909.jar;md5;ef2b5dc5d734d607b38237006f94bfd2",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
+{"key":"csp_AppYsV2","name": "🍹优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"}, 
 {"key":"csp_CZSPP","name":"🐞厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IKan","name":"🐞爱看HD(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🐞两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
