@@ -1,8 +1,8 @@
 // 源地址 -->https://liucn/box/m.json  https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/m.json https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io//ltxxjs/box2022-1/main/jar/904886.jar;md5;f528ad6de3436989a1d1e8e94ac990d4",
-
+//"spider":"https://raw.iqiq.io//ltxxjs/box2022-1/main/jar/904886.jar;md5;f528ad6de3436989a1d1e8e94ac990d4",
+"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/2909.jar;md5;ef2b5dc5d734d607b38237006f94bfd2",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
 {"key":"csp_CZSPP","name":"🐞厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -88,11 +88,14 @@
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/斗鱼.json"},
 {"key":"csp_xp_huya","name":"🐯虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/虎牙.json"},
 {"key":"csp_xp_酷奇mv","name":"📺酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/酷奇MV.json"},
-{"key":"csp_Bili","name":" 🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/Bili.txt"},
-{"key":"csp_Blixs","name":"🏮相声小品","type":3,"api":"csp_Blixs","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"csp_Bliyc","name":"🎸演唱会","type":3,"api":"csp_Bliyc","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/演唱会.txt"},
-{"key": "csp_Blixq","name":"🎈国粹戏曲","type":3,"api":"csp_Blixq","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/ext/戏曲.txt"},
-{"key":"csp_Bliqx","name":"🏀大球小球(SP)","type":3,"api":"csp_Bliqx","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.txt"},
+{"key":"csp_QB_17kan","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/17看球.json"},
+{"key":"csp_xp_球迷直播","name":"🏀dj看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/dj看球.json"},
+{"key":"csp_Bili合集","name":" 🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/B站.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg"},
+{"key":"csp_Bili演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/演唱会.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg"},
+{"key":"csp_Bili歌曲","name":"📺歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/歌曲.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg"},
+{"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/女团.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg"},
+{"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/相声.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg"},
+{"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/戏曲.txt","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/bili.jpg"},
 
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "3781469b13074e4cac1e0e7113e4fa20"},
 {"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
