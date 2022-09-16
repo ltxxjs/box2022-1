@@ -339,7 +339,7 @@
 
 //
 {"key":"csp_app_金叶影院","name":"🐌金叶影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://r.zjj.life:88/mv/api.php/Chengcheng/vod/"}
-],
+ ],
 //解X设置
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
