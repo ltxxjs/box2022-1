@@ -335,7 +335,7 @@
 {"key":"csp_xml_橘猫资源","name":"🐝橘猫资源","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_趣看采集","name":"🐝趣看采集","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_松鼠资源","name":"🐝松鼠资源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_共青春","name":"🐝共青春影院","type":1,"api":"https://gqc.ink/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_共青春","name":"🐝共青春影院","type":1,"api":"https://gqc.ink/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
 
  ],
 //解X设置
