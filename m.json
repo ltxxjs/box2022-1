@@ -1,9 +1,9 @@
 //https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/m.json https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json 
 {
-wallpaper:"https://picsum.photos/1280/720/?blur=10",
+"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://raw.iqiq.io//ltxxjs/box2022-1/main/jar/904886.jar;md5;f528ad6de3436989a1d1e8e94ac990d4",
-spider:"http://m.miaotvs.cn/资源包1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65",
-sites: [
+"spider":"http://m.miaotvs.cn/资源包1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65",
+"sites": [
 {"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
 {"key":"优众影视","name":"优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
@@ -341,7 +341,7 @@ sites: [
 {"key":"csp_app_金叶影院","name":"🐌金叶影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://r.zjj.life:88/mv/api.php/Chengcheng/vod/"}
 ],
 //解X设置
-parses:[
+"parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
@@ -361,22 +361,22 @@ parses:[
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 {"name":"💡听乐(B站)","type":1,"url":"https://jx.dj6u.com/?url="}
   ],
-lives: [
+"lives": [
 {
-group: "redirect",
-channels: [
+"group": "redirect",
+"channels": [
 {
-name: "redirect",
-urls: [
+"name": "redirect",
+"urls": [
 //"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9saXVjbi5jYy9ib3gvc3ViL2xpdmUvdHYudHh0"
 //本次采用的livetv地址https://raw.githubusercontent.com/ltxxjs/box2022-1/main/tv/20220828.txt
-proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvbHR4eGpzL2JveDIwMjItMS9tYWluL3R2LzIwMjIwODI4LnR4dA==
+"proxy"://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvbHR4eGpzL2JveDIwMjItMS9tYWluL3R2LzIwMjIwODI4LnR4dA==
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWL2xpdmUyMDIyMDgxMC50eHQ="
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbHR4eGpzL2JveDIwMjItMS9tYWluL3R2LzIwMjIwODI4LnR4dA=="
 ]}]}],
-flags:["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
-ijk:[
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+"ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
@@ -409,7 +409,7 @@ ijk:[
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
-ads:["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn",
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn",
 mg.g1mm3d.cn,"mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com",
 www.baihuillq.com,"s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com",
 img.mosflower.cn,"tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn",
