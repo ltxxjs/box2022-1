@@ -2,7 +2,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://raw.iqiq.io//ltxxjs/box2022-1/main/jar/904886.jar;md5;f528ad6de3436989a1d1e8e94ac990d4",
-"spider":"http://m.miaotvs.cn/资源包1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65",
+"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC0921w.jar;md5;34F6C193C8FC2EE4E4E529D8B313B217",
 "sites": [
 {"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
@@ -14,7 +14,7 @@
 {"key":"csp_Lib","name":"🐞Libvio(SP)","type": 3,"api": "csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🐞在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐞Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DY1990","name":"🐞九零影视(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/sp06.txt"},
+{"key":"csp_DY1990","name":"🐞九零影视(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"🐞低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_SP360","name":"🐞360视频(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},  
 {"key": "csp_剧荒","name": "👿剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":0,"quickSearch":1,"filterable":1},
@@ -24,7 +24,6 @@
 {"key":"csp_KanSJ","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"🐞天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_QXBiubiu_80S磁力","name":"🏀80S磁力(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/wlcmc1972/test/raw/branch/main/QXB/80S磁力.json"},
 
 { "key":"VIP4", "name": "看视界(T4)", "type":4, "api":"https://vod.kooo.eu.org/t4/vip11b016", "searchable":1, "quickSearch":1, "filterable":1 },
 { "key":"VIP6", "name": "多多资源(T4)", "type":4, "api":"https://vod.kooo.eu.org/t4/vip11fx64", "searchable":1, "quickSearch":1, "filterable":1 },
@@ -100,7 +99,7 @@
 {"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/ltxxjs/liu673cn_box/main/sub/ext/戏曲.txt","jar":"https://晴园外链.轻盘.ML/0918/jar/jar0918.jar;md5;89a367a21768e46bc528b6ecf735e1b3"},
 {"key":"csp_Bili考证","name":"💃考公考证","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontents.com/ltxxjs/TVboxo/main/Bili/%E8%80%83%E5%85%AC%E8%80%83%E8%AF%81.json","jar":"https://晴园外链.轻盘.ML/0918/jar/jar0918.jar;md5;89a367a21768e46bc528b6ecf735e1b3"},
   
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "7257c7603aa64f21b73726c8895ece60"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontents.com/ltxxjs/ygyzy.github.io/main/api/box/token.json"},
 {"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"7257c7603aa64f21b73726c8895ece60"},
 {"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"7257c7603aa64f21b73726c8895ece60"}, 
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"7257c7603aa64f21b73726c8895ece60"}, 
