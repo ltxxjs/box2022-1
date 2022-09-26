@@ -1,4 +1,12 @@
 🗼  港•澳•台,#genre#
+凤凰中文,http://jyjxy.7766.org:808/hls/32/index.m3u8
+凤凰资汛,http://jyjxy.7766.org:808/hls/33/index.m3u8
+凤凰香港,http://jyjxy.7766.org:808/hls/34/index.m3u8
+星河,http://jyjxy.7766.org:808/hls/35/index.m3u8
+翡翠台,http://jyjxy.7766.org:808/hls/36/index.m3u8
+明珠台,http://jyjxy.7766.org:808/hls/37/index.m3u8
+龙祥时代,http://jyjxy.7766.org:808/hls/38/index.m3u8
+星空,http://jyjxy.7766.org:808/hls/31/index.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
