@@ -5,7 +5,7 @@
 "spider":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/XC0926w.jar;md5;2d8d5de6efad7951756ffcd5b7c0bfc4",
 "sites": [
 {"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"kunyu77_js","name":"酷云77(js)","type":3,"api":"js_kunyu77","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
+{"key":"kunyu77_js","name":"酷云77(js)","type":3,"api":"js_kunyu77","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
 //{"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
 {"key":"优众影视","name":"优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 {"key":"csp_Jianying","name":"✨简影","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/txt/jy.txt"},
@@ -142,9 +142,9 @@
   
   
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontents.com/ltxxjs/ygyzy.github.io/main/api/box/token.json"},
-{"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/token.txt"},
-{"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/token.txt"}, 
-{"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/token.txt"}, 
+{"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/jar/token.txt"},
+{"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/jar/token.txt"}, 
+{"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/jar/token.txt"}, 
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/token.txt"},  
 //{"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"d470330e11ef4b7baf28ece31b27b113"}, 
 {"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/token.txt"},
