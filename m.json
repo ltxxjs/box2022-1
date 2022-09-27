@@ -2,7 +2,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://raw.iqiq.io//ltxxjs/box2022-1/main/jar/904886.jar;md5;f528ad6de3436989a1d1e8e94ac990d4",
-"spider":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/0922.jar",
+"spider":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/XC0926w.jar;md5;2d8d5de6efad7951756ffcd5b7c0bfc4",
 "sites": [
 {"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
