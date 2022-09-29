@@ -3,7 +3,9 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://raw.iqiq.io//ltxxjs/box2022-1/main/jar/904886.jar;md5;f528ad6de3436989a1d1e8e94ac990d4",
-"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/blob/main/jar/XC0926w.jar;md5;fb5c6c31a4c9fd39a5a61b9dd3699220",
+"spider":"https://github.com/ltxxjs/box2022-1/raw/main/jar/0928.jar;md5;ffaeca2a7a19dac66ea48b6d535f449b",
+//"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/blob/main/jar/XC0926w.jar;md5;fb5c6c31a4c9fd39a5a61b9dd3699220",
+	
 "sites": [
 {"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"kunyu77_js","name":"酷云77(js)","type":3,"api":"js_kunyu77","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
