@@ -42,7 +42,12 @@
 {"key":"csp_biubiu_斗鱼","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXb/douyu.json"},
 {"key":"csp_appysv2_小熊影视","name":"小熊影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xxtv.lanrentk.cc/api.php/iptv/vod/"},
 
-
+{"key":"*010爱资源","name":"🔞010爱资源","type":1,"api":"http://www.010aizy.com/API/macs.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*爱操资源","name":"🔞爱操资源","type":1,"api":"https://aicaozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*水蜜桃","name":"🔞水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*JAV名优馆","name":"🔞JAV名优馆","type":1,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"*奶茶资源","name":"🔞奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"dr_瓜皮TV","name":"瓜皮TV","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=瓜皮TV","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"*皇冠资源","name":"*皇冠资源🈲","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*辣椒资源","name":"*辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 {"key":"乐鱼资源","name":"*乐鱼资源(切)","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
