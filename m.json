@@ -20,7 +20,7 @@ rules": [
 //{"key":"kunyu77_js","name":"酷云77(js)","type":3,"api":"js_kunyu77","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/o/o/raw/branch/o/o/ts.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
 {"key":"优众影视","name":"优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
-{"key":"csp_Jianying","name":"✨简影","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/txt/jy.txt"},
+{"key":"csp_Jianying","name":"✨简影","type":3,"api":"csp_JianYing","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ltxxjs/snow/raw/branch/master/jy.txt"},
 {"key":"csp_CZSPP","name":"🐞厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IKan","name":"🐞爱看HD(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🐞两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
