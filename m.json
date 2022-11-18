@@ -2,13 +2,13 @@
 //https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://agit.ai/ltxxjs/snow/raw/branch/master/jar/ts20221118.jar",
+//"spider":"https://agit.ai/ltxxjs/snow/raw/branch/master/jar/ts20221118.jar",
 //"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/0928.jar;md5;6b3da8e0a11b4ef8333a311c29c55dcf",
 //"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/1008-1.jar",
 //"spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948",
 //"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/1019.jar",
 //"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/blob/main/jar/XC0926w.jar;md5;fb5c6c31a4c9fd39a5a61b9dd3699220",
-//"spider":"https://agit.ai/ltxxjs/snow/raw/branch/master/jar/1008-1.jar",
+"spider":"https://agit.ai/ltxxjs/snow/raw/branch/master/jar/1008-1.jar",
 rules": [
   {"host":"*", "rule":["douyinvod.com", "ideo/tos/cn/"]},
   {"host":"*", "rule":["default.365yg.com", "ideo/tos/cn/"]},
