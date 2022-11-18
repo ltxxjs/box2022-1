@@ -15,11 +15,10 @@ rules": [
   {"host":"*", "rule":["/m3u8.php", "path="]},
   {"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}],	
 "sites": [
-
-{"key":"我的豆瓣","name":"新我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"我的豆瓣","name":"新我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_IKan","name":"🐞爱看HD(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🐞两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"🐞完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/ltxxjs/snow/raw/branch/master/jar/cc1113.jar"},
