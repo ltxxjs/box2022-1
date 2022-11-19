@@ -16,6 +16,8 @@ rules": [
   {"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}],	
 "sites": [
 {key:'douban',name:'豆瓣备用',type:4,api:'https://t4.secan.icu/vod?sites=voflix&timeout=7',searchable:1,quickSearch:1,filterable:1},
+{"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/freed/master/TVBox/MaooXB2/厂长资源-蓝光.json"},
+
 //{"key":"我的豆瓣","name":"新我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
