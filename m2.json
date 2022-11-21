@@ -42,11 +42,10 @@
 {"key":"csp_biubiu_斗鱼","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXb/douyu.json"},
 {"key":"csp_appysv2_小熊影视","name":"小熊影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xxtv.lanrentk.cc/api.php/iptv/vod/"},
 
-##20221121
+
        {"key":"csp_hsck",		"name":"🔥Hsck",		"type":3,"api":"csp_Hsck","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/"},
 	{"key":"XYQBiu_cs",		"name":"🔥cs(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/H/XYQBiu/1.json"},
 	{"key":"XYQBiu_cs1",	"name":"🔥cs1(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/H/XYQBiu/2.json"},
-	//{"key":"XYQBiu_cs2",	"name":"🔥cs2(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/H/XYQBiu/3.json"},
 	{"key":"XYQBiu_xmt",	"name":"🔥xmt(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/H/XYQBiu/xmt.json"},
 	{"key":"XYQBiu_测试1",	"name":"🔥xjzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/H/XYQBiu/xjzy.json"},
 	{"key":"XYQBiu_测试3",	"name":"🔥cqzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://catvod.fun:8001/tv/H/XYQBiu/cqzy.json"},
