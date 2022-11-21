@@ -1,0 +1,50 @@
+{//20221112-banan附加
+    "title": "banan",
+    "author": "",
+    "UserAgent":"",
+    "firstpage": "1",
+    "homeContent": "1",
+     "class_url": "https://banan.tv/topicdetail-{cateId}/page/{catePg}.html",
+    "class_name": "無修正&FC&流出&IPX&300MIUM&SSIS&259luxu&MIDE&STARS&JUL&SSNI&ABW&FSDSS&MN&ZC&RQ",
+    "class_value": "80&9&91&30&79&27&52&35&32&31&29&28&8&19&89&41",
+	"filterdata": {},
+	
+    "cat_YN_twice": "0",
+    "cat_twice_pre": "",
+    "cat_twice_suf": "",
+    "cat_arr_pre": "class=\"img-box cover-md",
+    "cat_arr_suf": "</div>",
+    "cat_pic": "data-src=\"&&\"",
+    "cat_title": "alt=\"&&\"",
+    "cat_subtitle": "class=\"label\">&&<",
+    "cat_url": "href=\"&&\"",
+    "cat_prefix": "https://banan.tv",
+    "cat_suffix": "",
+
+    "search_url": "https://banan.tv/vodsearch/-------------.html?wd={wd}",//搜索网址
+    "search_mode": "1",//搜索模式，0是json格式，1是网页截取
+    "jsonpic": "vod_pic",
+    "jsonname": "vod_name",
+    "jsonid": "vod_id",
+    "jsonstitle":"",
+    "sea_YN_twice": "0",//是否二次截取
+    "sea_twice_pre": "",//截取前
+    "sea_twice_suf": "",//截取后
+    "sea_arr_pre": "class=\"img-box cover-md",//数组前
+    "sea_arr_suf": "class=\"detail",//数组后
+    "sea_pic": "data-src=\"&&\"",//图片
+    "sea_title": "alt=\"&&\"",//标题
+    "sea_url": "href=\"&&\"",//地址
+    "search_prefix": "https://banan.tv",//地址前缀
+    "search_suffix": "",//地址后缀
+    "sea_subtitle": "class=\"label\">&&<",//副标题
+
+    "force_play": "1",
+    "play_prefix": "空",
+    "play_suffix": "空",
+    "play_header": "空",
+    
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv#item/video#is_play_url=1"
+    
+}

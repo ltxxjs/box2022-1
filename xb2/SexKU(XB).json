@@ -1,0 +1,25 @@
+{
+  "站名": "四虎影院",
+  "主页url": "https://xiaomi7.top/",
+  "图片":"data-original=\"&&\"",
+  "标题":"title=\"&&\"",
+  "链接":"href=\"&&\"",
+  "线路数组": "id=\"NumTab\">&&</div>",
+  "线路标题": "&nbsp;&&</a>",
+  "搜索模式":"1",
+  "搜索url":"https://xiaomi7.top/vodsearch/-------------/?wd={wd}",
+  
+  "搜索链接前缀":"https://xiaomi7.top",
+  "搜索链接后缀":"&submit=",
+  "播放数组": "<ul class=\"content_playlist clearfix\">&&</ul>",
+  "状态": "地区：</span>&&<span",
+  "导演": "导演：</span>&&<span",
+  "主演": "主演：</span>&&<span",
+  "简介": "简介：</span>&&</a>",
+  "播放列表": "<a&&/a>",
+  "播放标题": ">&&<",
+  "播放链接":"href=\"&&\"",
+  "分类":"无码专区$90#名优专区$95#中文专区$106",
+  "分类url":"https://xiaomi7.top/vodtype/{cateId}-{catePg}/"
+
+}

@@ -1,0 +1,48 @@
+{
+    "title": "凌云影视",
+    "author": "",
+    "UserAgent":"",
+    "firstpage": "1",
+    "homeContent": "1",
+     "class_url": "https://www.nsss6.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+    "class_name": "电视剧&电影&综艺&动漫&纪录片&其他",
+    "class_value": "12&20&2&22&21&5",
+
+
+    "cat_YN_twice": "0",
+    "cat_twice_pre": "class=\"vodlist\"",
+    "cat_twice_suf": "</ul>",
+    "cat_arr_pre": "class=\"vod_box",
+    "cat_arr_suf": "</div>",
+    "cat_pic": "data-original=\"&&\"",
+    "cat_title": "title=\"&&\"",
+    "cat_subtitle": "",
+    "cat_url": "href=\"&&\"",
+    "cat_prefix": "https://www.nsss6.xyz",
+    "cat_suffix": "",
+
+
+    "search_url": "https://www.nsss6.xyz/index.php/vod/search/wd/{wd}.html",//搜索网址
+    "search_mode": "1",//搜索模式，0是json格式，1是网页截取
+    "jsonpic": "vod_pic",
+    "jsonname": "vod_name",
+    "jsonid": "vod_id",
+    "jsonstitle":"",
+    "sea_YN_twice": "1",//是否二次截取
+    "sea_twice_pre": "class=\"vodlist\"",//截取前
+    "sea_twice_suf": "</ul>",//截取后
+    "sea_arr_pre": "class=\"vod_box\"",//数组前
+    "sea_arr_suf": "</a>",//数组后
+    "sea_pic": "data-original=\"&&\"",//图片
+    "sea_title": "title=\"&&\"",//标题
+    "sea_url": "href=\"&&\"",//地址
+    "search_prefix": "https://www.nsss6.xyz",//地址前缀
+
+    "force_play": "1",
+    "play_prefix": "空",
+    "play_suffix": "空",
+    "play_header": "空",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv#item/video#is_play_url=1"
+    
+}
