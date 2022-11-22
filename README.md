@@ -391,7 +391,7 @@ https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/mai
 
 https://raw.iqiq.io/ltxxjs/box2022-1/main/m.json
 
-
+https://js.xxooo.ml/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json
 
 
 ## TV盒子软件
