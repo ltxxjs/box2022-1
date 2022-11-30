@@ -224,7 +224,7 @@ rules": [
 "urls": [
 
 //本次采用的livetv地址https://raw.iqiq.io/ltxxjs/box2022-1/main/tv/20221124.txt
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9sdHh4anMvYm94MjAyMi0xL21haW4vdHYvMjAyMjExMjQudHh0","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9sdHh4anMvYm94MjAyMi0xL21haW4vdHYvMjAyMjExMjQudHh0"
 ]}]}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "sniffer": {
