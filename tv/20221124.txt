@@ -1,3 +1,6 @@
+公众号-软件星球,#genre#
+ 一切皆收集自网络,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+
 ⚛️地方综合,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
@@ -29,6 +32,62 @@
 都市,http://39.134.32.102:6610/270000001111/1110000324/index.m3u8?IASHttpSessionId=OTT
 公共应急,http://39.134.32.102:6610/270000001111/1110000325/index.m3u8?IASHttpSessionId=OTT
 
+🏀4k世界杯,#genre#
+抖音4K50P世界杯场次一,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
+抖音4K50P世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
+BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+CCTV4K-25P-HLG源,http://159.75.85.63:8280/cctv4k.php
+CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV16-4K-50P-IPV6-HLG源,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
+ODISEA UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
+十一运动1 4K,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
+Sport5 4k,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
+TRT 4k,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
+TVP 4k,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
+MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+斗鱼4K,http://epg.112114.xyz/douyu/9249162
+CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5-高清(2),http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
+五星体育(1),http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育(2),http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+广东体育,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+广东体育（备）,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+南国都市(备),https://justsometime.gztv.com/sec/shenghuos.m3u8
+4K测试源,https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
+CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+SiTV欢笑剧场12M2160,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+纯享4K 25M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+纯享4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
+纯4K 30M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+4K修复7M2160HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+咪咕4K-HLG源-备用2,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8?blog.ntnas.top
+咪咕4K-HLG源-备用3,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8?blog.ntnas.top
+CCTV16 4K SDR源 25帧,http://111.11.123.28:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+CCTV16 4K IPV6 HLG源 50帧,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?blog.ntnas.top
+卫视卡式台,http://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8?blog.ntnas.top
+V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+Astro Super Sport 4K备,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+Bein Sport 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=100891&extension=ts&play_token=ou2Un6sNC5
+Bein Sport 4K备,http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
+RMC Sport 4K,http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
+Insight UHD,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=d0cef6d2e668ade6842222
+Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+MOVISTAR LIGA DE CAMPEONES UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/12401
+TRAVELXP TV 4K,http://45.153.35.200:8001/play/a0b8
+NASA 4k 60P,http://45.153.35.200:8001/play/a0b7
+MYZEN TV 4K,http://45.153.35.200:8001/play/a0ba
+ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
+Sky Sport UHD,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
+Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+CCTV5-高清(3),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 
 ⚛️iHOT剧场,#genre#
 
@@ -108,72 +167,34 @@ bloomberg 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playli
 TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8?blog.ntnas.top
 CBS NEWS,https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?blog.ntnas.top
 
-⚛️体育综合,#genre#
-
-BTV冬奥记实际-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+🏀体育频道,#genre#
+BTV纪实科教-8KSDR源,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-纯享4K,http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-欢笑剧场4K,http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-CCTV16-4K-SDR源,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-CCTV16-4K-HLG源,http://27.36.62.163:9090/live/4010.m3u8
-CCTV16-1080P-HLG源,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-广东综艺4K-HLG源,http://27.36.62.163:9090/live/GDZYHD4K_38000.m3u8
-CCTV4K-HLG源,http://27.36.62.163:9090/live/4005.m3u8
 4K-TEST,https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
-4K影视1,http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 4K影视2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清(2),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-高清(3),http://159.75.85.63:828/shijiebei/sjb.php?id=3007a
 CCTV5-高清((4),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5-高清((5),http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-五星体育(1),http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育(2),http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育(3),http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-
 广东体育,http://120.84.96.73:808/hls/22/index.m3u8
 广东体育（备）,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育(备1),http://119.131.240.116:9090/hls/5/index.m3u8
 广东体育(备2),http://120.84.96.26:808/hls/22/index.m3u8
 广东体育(备3),http://120.84.96.33:808/hls/22/index.m3u8
-南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-南国都市(备),https://justsometime.gztv.com/sec/shenghuos.m3u8
-江苏8K测试,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-CCTV4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-CCTV16-4K 34M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-SiTV欢笑剧场 12M2160,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
-纯享4K 25M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-纯享4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-纯享4K 30M2160HLG,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-4K修复 7M2160HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-
-CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5,http://39.135.138.59:18890/PLTV/88888888/224/3221225767/index.m3u8
-CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-CCTV5+,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
-CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+劲爆体育,http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_6000.m3u8?blog.ntnas.top
+北京体育休闲,http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD_6000.m3u8?blog.ntnas.top
+新视觉HD,http://112.25.48.69/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-
+四海钓鱼,http://yfsl.vsd.gehua.net.cn/live/SiHaiDiaoYuHD_2000.m3u8?blog.ntnas.top
 超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
 超级体育,http://39.135.138.60:18890/PLTV/88888888/224/3221225622/index.m3u8
@@ -182,12 +203,8 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8?
 超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8#
-超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8#
-超级体育,http://39.135.138.60:18890/PLTV/88888888/224/3221225622/index.m3u8#
-超级体育,http://39.135.138.60:18890/PLTV/88888888/224/3221225648/index.m3u8#
-超级体育,http://39.135.138.60:18890/PLTV/88888888/224/3221225767/index.m3u8#
-超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8#
+超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
 超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225767/index.m3u8
 超级体育,https://epg.pm/stream/892ae6a6657fcb5605b08e74ffde08c5d057921bc1c6ea7a35ee34911e30ab72.m3u8
 超级体育,https://epg.pm/stream/b7d39c73c45d0f68e85f8516f8b66de59f52c83c44afed9a2543adab6e918237.m3u8
@@ -196,18 +213,14 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,https://epg.pm/stream/e6ac2baa105ad205e12eb2c560e615d12cf8434d7e9861f148e8c5671a11eca8.m3u8
 超级体育,https://epg.pm/stream/1b30772c7fd01d7171a677c51bd63413937454d089efbce53b156cc1584d6e30.m3u8
 超级体育,https://epg.pm/stream/30dfb2b73dac7b152b0e4af6e7ad24f1163750818ae7a96557c2a03530bb4657.m3u8
-超级体育,http://39.135.6.51:6610/000000001001/1000000001000009204/1.m3u8?Contentid=1000000001000009204&livemode=1&stbId=2&channel-id=ystenlive
-超级体育,http://39.135.6.51:6610/000000001001/1000000001000009601/1.m3u8?Contentid=1000000001000009601&livemode=1&stbId=2&channel-id=ystenlive
 超级体育,http://39.134.116.30:8080/PLTV/88888910/224/3221225622/index.m3u8
 超级体育,http://39.135.138.58:18890/PLTV/88888910/224/3221225622/index.m3u8
 超级体育,http://39.135.138.58:18890/PLTV/88888910/224/3221225767/index.m3u8
 超级体育,http://39.135.138.58:18890/PLTV/88888910/224/3221225648/index.m3u8
-超级体育,http://111.13.42.240/PLTV/88888888/224/3221226232/1.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
 超级体育,https://epg.pm/stream/f9fdc70c9ba25e7d270e25469cfd4eb8dce28a51884fb2d23f5ff80ac73c7f92.m3u8
 精品体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
-精品体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8#
 精品体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225709/index.m3u8
 精品体育,https://epg.pm/stream/968977280ce7d82de1b612dff593651ba5826bafda1eded73bd0548ce59579f9.m3u8
 精品体育,https://epg.pm/stream/1917a85e18c76068c533ab074d3125f1388bfafd44c5e1080a1038e1acd81298.m3u8
@@ -220,86 +233,14 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 精品体育,https://epg.pm/stream/22bf7d4e3cd55570e9e937825a0049cd33d084082dfa439fbc107b0e2c14d6dc.m3u8
 精品体育,https://epg.pm/stream/7e5a3a085a8f52937a333210d1b17f615f43bb84622381989363a2f69dd48224.m3u8
 精品体育,https://epg.pm/stream/5e0195d5332b7ad33c1612460c7f9ecd3cffd7e88d402ed83caa29265e90e94a.m3u8
-精品体育,http://39.135.6.51:6610/000000001001/6460382139625130259/1.m3u8?Contentid=6460382139625130259&livemode=1&stbId=2&channel-id=ystenlive
 咪咕体育,http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
 五星体育频道,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 NewTV超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
 NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225767/index.m3u8
-NewTV超级体育,http://39.135.138.58:18890/PLTV/88888910/224/3221225622/index.m3u8
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.m3u8
 
-🏀抖音世界杯,#genre#
-抖音世界杯,http://mmmitv.top/test/douyin-x.php?id=rand
-抖音4K世界杯,http://www.mmitv.top/test/douyin-x.php?id=rand
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168393137541846023
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168402140623426596
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168402140623442980
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168376863554933774
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168393137541731335
-第1轮-丹麦VS突尼斯,http://mmmitv.top/test/douyin-x.php?id=7078144013555073031&rid=7168805931990436622
-第1轮-丹麦VS突尼斯,http://mmmitv.top/test/douyin-x.php?id=7078144013555073031&rid=7167736208087337741
-第1轮-丹麦VS突尼斯,http://mmmitv.top/test/douyin-x.php?id=7078144013555073031&rid=7167736208087370509
-第1轮-墨西哥VS波兰,http://mmmitv.top/test/douyin-x.php?id=7078337909270708232
-第1轮-法国VS澳大利亚,http://mmmitv.top/test/douyin-x.php?id=7077955888174235685
-第1轮-摩洛哥VS克罗地亚,http://mmmitv.top/test/douyin-x.php?id=7081590255274623012
-第1轮-德国VS日本,http://mmmitv.top/test/douyin-x.php?id=7078144088528273422
-第1轮-西班牙VS哥斯达黎加,http://mmmitv.top/test/douyin-x.php?id=7079010933158330381
-第1轮-比利时VS加拿大,http://mmmitv.top/test/douyin-x.php?id=7077940426422091812
-第1轮-瑞士VS喀麦隆,http://mmmitv.top/test/douyin-x.php?id=7078143971100557326
-第1轮-乌拉圭VS韩国,http://mmmitv.top/test/douyin-x.php?id=7079013104176267295
-第1轮-葡萄牙VS加纳,http://mmmitv.top/test/douyin-x.php?id=7079010819186540580
-第1轮-巴西VS塞尔维亚,http://mmmitv.top/test/douyin-x.php?id=7078635905942716447
-第2轮-威尔士VS伊朗,http://mmmitv.top/test/douyin-x.php?id=7079010811733213214
-第2轮-卡塔尔VS塞内加尔,http://mmmitv.top/test/douyin-x.php?id=7078589836172640270
-第2轮-荷兰VS厄瓜多尔,http://mmmitv.top/test/douyin-x.php?id=7079010811330560014
-第2轮-英格兰VS美国,http://mmmitv.top/test/douyin-x.php?id=7077940427055546376
-第2轮-突尼斯VS澳大利亚,http://mmmitv.top/test/douyin-x.php?id=7078331218126897189
-第2轮-波兰VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7080405269557067784
-第2轮-法国VS丹麦,http://mmmitv.top/test/douyin-x.php?id=7078144019922534414
-第2轮-阿根廷VS墨西哥,http://mmmitv.top/test/douyin-x.php?id=7079010796210110477
-第2轮-日本VS哥斯达黎加,http://mmmitv.top/test/douyin-x.php?id=7078589839569993765
-第2轮-比利时VS摩洛哥,http://mmmitv.top/test/douyin-x.php?id=7079013124971610126
-第2轮-克罗地亚VS加拿大,http://mmmitv.top/test/douyin-x.php?id=7078807877045075975
-第2轮-西班牙VS德国,http://mmmitv.top/test/douyin-x.php?id=7078336803182411789
-第2轮-喀麦隆VS塞尔维亚,http://mmmitv.top/test/douyin-x.php?id=7077955893035450381
-第2轮-韩国VS加纳,http://mmmitv.top/test/douyin-x.php?id=7078143983855288350
-第2轮-巴西VS瑞士,http://mmmitv.top/test/douyin-x.php?id=7079013130189783070
-第2轮-葡萄牙VS乌拉圭,http://mmmitv.top/test/douyin-x.php?id=7081310526357159973
-第3轮-荷兰VS卡塔尔,http://mmmitv.top/test/douyin-x.php?id=7078589827138551844
-第3轮-厄瓜多尔VS塞内加尔,http://mmmitv.top/test/douyin-x.php?id=7078143983855271966
-第3轮-威尔士VS英格兰,http://mmmitv.top/test/douyin-x.php?id=7078589838949253150
-第3轮-伊朗VS美国,http://mmmitv.top/test/douyin-x.php?id=7079013129451077640
-第3轮-突尼斯VS法国,http://mmmitv.top/test/douyin-x.php?id=7079013128293482526
-第3轮-澳大利亚VS丹麦,http://mmmitv.top/test/douyin-x.php?id=7078144285257908231
-第3轮-波兰VS阿根廷,http://mmmitv.top/test/douyin-x.php?id=7078589830745161742
-第3轮-沙特阿拉伯VS墨西哥,http://mmmitv.top/test/douyin-x.php?id=7078144114449039397
-第3轮-克罗地亚VS比利时,http://mmmitv.top/test/douyin-x.php?id=7077940428493996068
-第3轮-加拿大VS摩洛哥,http://mmmitv.top/test/douyin-x.php?id=7080568360999829518
-第3轮-日本VS西班牙,http://mmmitv.top/test/douyin-x.php?id=7078589828526391332
-第3轮-哥斯达黎加VS德国,http://mmmitv.top/test/douyin-x.php?id=7078700246515236894
-第3轮-韩国VS葡萄牙,http://mmmitv.top/test/douyin-x.php?id=7078337911585947679
-第3轮-加纳VS乌拉圭,http://mmmitv.top/test/douyin-x.php?id=7078143972866162696
-第3轮-塞尔维亚VS瑞士,http://mmmitv.top/test/douyin-x.php?id=7079010811330576398
-第3轮-喀麦隆VS巴西,http://mmmitv.top/test/douyin-x.php?id=7077955887771615262
-世界杯1/8决赛---A组第1VSB组第2,http://mmmitv.top/test/douyin-x.php?id=7079010933158313997
-世界杯1/8决赛---C组第1VSD组第2,http://mmmitv.top/test/douyin-x.php?id=7079013134140276772
-世界杯1/8决赛---D组第1VSC组第2,http://mmmitv.top/test/douyin-x.php?id=7079826172300820493
-世界杯1/8决赛---B组第1VSA组第2,http://mmmitv.top/test/douyin-x.php?id=7081310526357143589
-世界杯1/8决赛---E组第1VSF组第2,http://mmmitv.top/test/douyin-x.php?id=7080568360999813134
-世界杯1/8决赛---G组第1VSH组第2,http://mmmitv.top/test/douyin-x.php?id=7077955887771598878
-世界杯1/8决赛---F组第1VSE组第2,http://mmmitv.top/test/douyin-x.php?id=7078337909270691848
-世界杯1/8决赛---H组第1VSG组第2,http://mmmitv.top/test/douyin-x.php?id=7078336803182395405
-世界杯1/4决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7079013124971593742
-世界杯1/4决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7078143972866146312
-世界杯1/4决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7077940428493979684
-世界杯1/4决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7078589836172623886
-世界杯半决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7077940427055529992
-世界杯半决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7077955893035433997
-世界杯季军赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7078807877045059591
-世界杯决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7078589838949236766
 
 ⚛️欢乐剧场,#genre#
 中国教育-1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
