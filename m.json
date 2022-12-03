@@ -7,7 +7,7 @@
 "sites": [
 {"key":"世界杯","name":"和小军一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs12022.jar;md5;a32090dea82b42bad7393ae97ff2607b"},
 {key:'douban',name:'豆瓣推荐',type:4,api:'http://t4.ganggang.live:3812/vod',searchable:0,quickSearch:0,filterable:1},
-{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":1","ext":"8ee655f702d0d21f3643504783babbc3", "jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs12022.jar;md5;a32090dea82b42bad7393ae97ff2607b"},
+{{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},"jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs12022.jar;md5;a32090dea82b42bad7393ae97ff2607b"},
 {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs12022.jar;md5;a32090dea82b42bad7393ae97ff2607b"},
 {"key":"csp_Bttoo","name":"🐞两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"🐞完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
