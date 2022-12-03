@@ -48,12 +48,17 @@
 {"key":"😺csp_Yiso","name":"易搜1","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt"},
 {"key":"😺csp_Yisou","name":"易搜2","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt"},
 {"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt"}, 
- {"key":"Upso","name":"云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"Upso","name":"云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs12022.jar;md5;a32090dea82b42bad7393ae97ff2607b"},
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt"}, 
 {"key":"csp_Zhaozy","name":"💡找资源(仅搜索)1","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt"}, 
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt"},  
 {"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt"}, 
 {"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"daae36603bcd490681bdd8d03940783a"},
+{"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Alist1","name":"🗂阿里云盘1","type":3,"api":"csp_Alist3","searchable":0,"quickSearch":0,"filterable":0,"ext":"alist1$https://pan.hikerfans.com#alist2$https://drive.9t.ee#alist3$https://alist.youte.ml#alist4$https://wangpan.sangxuesheng.com#alist5$https://pan.142856.xyz#妙妙屋$https://anime.mqmmw.ga#晴园$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#资源小站$https://960303.xyz/#菊花盘$https://pan.142856.xyz#帅盘$https://hi.shuaipeng.wang#轻弹浅唱$https://g.xiang.lol#嗨翻$https://pan.hikerfans.com","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs12022.jar"},
+{"key":"csp_Alist2","name":"🗂阿里云盘2","type":3,"api":"csp_Alist3","searchable":0,"quickSearch":0,"filterable":0,"ext":"9T(Adult)$https://drive.9t.ee#小兵组$https://6vv.app#梓澪妙妙$https://xn--i0v44m.xyz","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs12022.jar"},
+{"key":"Alist1","name":"Alist1","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/xb/alist-1.json"},
+
 //
 {"key":"csp_app_天空TV","name":"🐌天空TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
 {"key":"csp_app_1080KK","name":"🐌1080KK","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
