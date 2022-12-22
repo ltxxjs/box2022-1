@@ -6,7 +6,9 @@
 
 "sites": [
 {"key":"世界杯","name":"和小军一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
-{key:'douban',name:'豆瓣推荐',type:4,api:'http://t4.ganggang.live:3812/vod',searchable:0,quickSearch:0,filterable:1},
+{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+{"key":"T4_douban1","name":"🔍影视推荐1(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
 {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"  ,"jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
 {"key":"csp_Bttoo","name":"🐞两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
