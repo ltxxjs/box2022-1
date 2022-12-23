@@ -2,7 +2,7 @@
 //https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/xo20221202.jar;md5;d94a41b91730dff6c425c321ab14fbdb",
+"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/xo1222.jar;md5;4d8b7670bd2b1f080d7eb82983684da8",
 
 "sites": [
 {"key":"世界杯","name":"和小军一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
