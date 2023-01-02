@@ -9,7 +9,6 @@
 [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWLzIwMjIwODI4LnR4dA=="
 ]}]}],
 "sites": [
-{"key":"世界杯","name":"和小军一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
 {key:'douban',name:'豆瓣推荐',type:4,api:'http://t4.ganggang.live:3812/vod',searchable:0,quickSearch:0,filterable:1},
 {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
 {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"  ,"jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
@@ -38,7 +37,7 @@
 {"key":"csp_biubiu_斗鱼","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXb/douyu.json"},
 {"key":"csp_appysv2_小熊影视","name":"小熊影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xxtv.lanrentk.cc/api.php/iptv/vod/"},
 
-
+ {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext": {"drives": [{"name": "9T","server": "https://drive.9t.ee"},{"name": "木偶","server": "https://www.kugutsu.ml"},{"name": "秋雨","server": "https://share.laowang.me","password": "s8;K^h[j<b"}]}},
  //20221112xinzeng      
 {"key":"*色南国资源","name":"*🔞色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*狼友资源","name":"*🔞狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
