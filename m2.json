@@ -36,8 +36,8 @@
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXp/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXb/douyu.json"},
 {"key":"csp_appysv2_小熊影视","name":"小熊影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xxtv.lanrentk.cc/api.php/iptv/vod/"},
-
- {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext": {"drives": [{"name": "9T","server": "https://drive.9t.ee"},{"name": "木偶","server": "https://www.kugutsu.ml"},{"name": "秋雨","server": "https://share.laowang.me","password": "s8;K^h[j<b"}]}},
+{"key":"Alist1","name":"Alist1","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/xb/alist-1.json"},
+{"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext": {"drives": [{"name": "9T","server": "https://drive.9t.ee"},{"name": "木偶","server": "https://www.kugutsu.ml"},{"name": "秋雨","server": "https://share.laowang.me","password": "s8;K^h[j<b","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"}]}},
  //20221112xinzeng      
 {"key":"*色南国资源","name":"*🔞色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*狼友资源","name":"*🔞狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
