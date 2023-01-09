@@ -6,7 +6,7 @@
 "spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/xo20221202.jar;md5;d94a41b91730dff6c425c321ab14fbdb",
 // 直播
 "lives":
-[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWLzIwMjIwODI4LnR4dA=="
+[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRm9uZ01pL0NhdFZvZFNwaWRlci9tYWluL3R4dC9hZHVsdC50eHQ="
 ]}]}],
 "sites": [
 {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
