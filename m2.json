@@ -23,7 +23,7 @@
 {"key": "UP雲搜","name": "UP雲搜","type": 3, "api": "csp_UpYun","searchable": 1, "filterable": 0, "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/CatVodSpider/raw/main/jar/custom_spider.jar"},
 {"key": "找資源","name": "找資源","type": 3, "api": "csp_Zhaozy","searchable": 1, "filterable": 0, "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/CatVodSpider/raw/main/jar/custom_spider.jar;md5;58ad839f0f5e35ff9dd3adefab9552ce"},
 {"key":"csp_小丫搜索","name":"小丫搜索","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},	
-{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"}, 
+{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar":"https://ghproxy.com/https://github.com/ltxxjs/CatVodSpider/raw/main/jar/custom_spider.jar"}, 
 {"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://ali.饭太硬.ml/tok"}, 
 {"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
