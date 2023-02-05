@@ -61,7 +61,7 @@
 {"key": "易搜","name": "易搜","type": 3, "api": "csp_YiSo","searchable": 1, "filterable": 0, "ext": "http://home.jundie.top:666/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/CatVodSpider/raw/main/jar/custom_spider.jar"},
 {"key": "盤搜","name": "盤搜","type": 3, "api": "csp_PanSou","searchable": 1, "filterable": 0, "ext": "http://home.jundie.top:666/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/CatVodSpider/raw/main/jar/custom_spider.jar"},
 {"key": "UP雲搜","name": "UP雲搜","type": 3, "api": "csp_UpYun","searchable": 1, "filterable": 0, "ext": "http://home.jundie.top:666/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/CatVodSpider/raw/main/jar/custom_spider.jar"},
-{"key": "找資源","name": "找資源","type": 3, "api": "csp_Zhaozy","searchable": 1, "filterable": 0, "ext": "http://home.jundie.top:666/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/CatVodSpider/raw/main/jar/custom_spider.jar"},
+{"key": "找資源","name": "找資源","type": 3, "api": "csp_Zhaozy","searchable": 1, "filterable": 0, "ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234","jar":"https://ghproxy.com/https://github.com/ltxxjs/CatVodSpider/raw/main/jar/custom_spider.jar"},
 
 //{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.iqiq.io/ltxxjs/box2022-1/main/jar/token.txt"},  
 //{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt"},
