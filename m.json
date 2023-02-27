@@ -52,7 +52,7 @@
 {"key":"csp_bendi","name":"本地文件（仅能播放视频）","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"csp_小丫搜索","name":"小丫搜索","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},	
 {"key": "Gitcafe","name": "🐞小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://ali.饭太硬.ml/alitoken"}, 
-{"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"http://ali.饭太硬.ml/alitoken"},
+{"key": "csp_Gitcafe","name": "📜小纸条(爬虫)","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"Zhaozy","name":"找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$xxooo$$$qq112233"},
 {"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
