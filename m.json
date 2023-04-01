@@ -3,7 +3,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/xo1222.jar;md5;50132e22a1b0541714b247de8a13a100",
-"spider":"https://gh-proxy.com/https://github.com/ltxxjs/gao/raw/master/jar/xo.txt",
+"spider":"https://gh-proxy.com/https://github.com/ltxxjs/gao/raw/master/jar/fan.txt",
 
 "sites": [
 {"key":"T4_douban2","name":"🔍小军推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
