@@ -3,20 +3,23 @@
 //https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json
 
 	
-"spider":"https://ghproxy.com/https://github.com/ltxxjs/miao/raw/main/TVBox/jar/xo0320.jar",
+"spider":"https://ghproxy.com/https://github.com/ltxxjs/gao/raw/master/jar/cs.jar",
 // 直播
 "lives":
 [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRm9uZ01pL0NhdFZvZFNwaWRlci9tYWluL3R4dC9hZHVsdC50eHQ="
 ]}]}],
 "sites": [
-{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
-{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"  ,"jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs1207.jar;md5;406802a5fa2cb0a16d738b45d40620df"},
-{"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bttoo","name":"🐞两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Wmkk","name":"🐞完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Cokemv","name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"🐞360视频","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},  
-	
+{"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
+    {"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
+    {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
+    {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
+    {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
+    {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
+    {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
+    {"key":"Kunyu77","name":"七七","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
+    {"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
+    {"key":"Bili","name":"哔哩","type":"3","api":"csp_Bili","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"戏曲#越剧#舞蹈#健身#太极拳#帕梅拉#广场舞#电影#电视剧#演唱会#动物世界"},
+    {"key":"AList","name": "AList","type": "3","api":"csp_AList","changeable":"0","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},	
 {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"AV","server":"https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"}]}},
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"ext":"1"},
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1},
