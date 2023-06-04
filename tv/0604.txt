@@ -1,3 +1,6 @@
+
+4k,#genre#
+
 #EXTM3U
 #EXTINF:-1 group-title="4K",BTV纪实科教 8K
 ,http://159.75.85.63:6798
@@ -19,6 +22,8 @@
 ,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K",Astro Super Sport 4K「体育」
 ,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+
+IPV6,#genre#
 #EXTINF:-1 group-title="IPV6•4K",CCTV8K 测试
 ,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 group-title="IPV6•4K",8K「IPV6」
@@ -665,6 +670,9 @@
 ,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-logo=",https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="IPV6•咪咕",咪咕直播-56「IPV6」
 ,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+
+咪咕,#genre#
+
 #EXTINF:-1 tvg-logo=",https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「双栈」",咪咕直播4K-1
 ,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo=",https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕「双栈」",咪咕直播4K-2
