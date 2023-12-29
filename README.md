@@ -397,6 +397,7 @@ https://js.xxooo.ml/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.js
 https://999740.xyz/https://raw.githubusercontent.com/dxawi/0/main/0.json
 https://p.ntnas.top/https://raw.githubusercontent.com/ltxxjs/gao/master/js/cilixiong.js
  https://mirror.ghproxy.com/raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json
+ https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 
 ## TV盒子软件
 
