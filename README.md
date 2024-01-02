@@ -614,6 +614,12 @@ https://ghps.cc/
 <https://cdn.jsdelivr.net/gh/cyao2q/files@master/biubiu/bb0622.json>
 
 
+
+app下载
+https://www.lanzouv.com/b03j7buub 18
+https://ufoclz.lanzouy.com/b00zboiwb 2kzz
+
+
 ## 油猴脚本
 
 [破解VIP会员视频](https://f.cyao.tk/script/crackvideo.user.js)
