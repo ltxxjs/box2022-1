@@ -1,39 +1,5 @@
 📡  央视频道,#genre#
 
-CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
-CCTV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226825/59814584.smil
-CCTV3,rtsp://115.153.233.154/PLTV/88888888/224/3221226930/65406412.smil
-CCTV4,rtsp://115.153.233.154/PLTV/88888888/224/3221226838/59814684.smil
-CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-CCTV6,rtsp://115.153.233.154/PLTV/88888888/224/3221226909/65396493.smil
-CCTV7,rtsp://115.153.233.154/PLTV/88888888/224/3221226827/59814693.smil
-CCTV8,rtsp://115.153.233.154/PLTV/88888888/224/3221226911/65406606.smil
-CCTV9,rtsp://115.153.233.154/PLTV/88888888/224/3221226840/59814699.smil
-CCTV10,rtsp://115.153.233.154/PLTV/88888888/224/3221226630/51813372.smil
-CCTV11,rtsp://115.153.233.154/PLTV/88888888/224/3221226986/85722616.smil
-CCTV12,rtsp://115.153.233.154/PLTV/88888888/224/3221226829/59814709.smil
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,rtsp://115.153.233.154/PLTV/88888888/224/3221227037/87447722.smil
-CCTV15,rtsp://115.153.233.154/PLTV/88888888/224/3221226988/85722541.smil
-CCTV17,rtsp://115.153.233.154/PLTV/88888888/224/3221226846/61397282.smil
-
-CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil
-CCTV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226825/59814584.smil
-CCTV3,rtsp://115.153.212.72/PLTV/88888888/224/3221226841/63329606.smil
-CCTV4,rtsp://115.153.212.72/PLTV/88888888/224/3221226838/59814684.smil
-CCTV5,https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
-CCTV5+,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
-CCTV6,rtsp://115.153.212.72/PLTV/88888888/224/3221226843/63329570.smil
-CCTV7,rtsp://115.153.212.72/PLTV/88888888/224/3221226827/59814693.smil
-CCTV8,rtsp://115.153.212.72/PLTV/88888888/224/3221226854/63329578.smil
-CCTV9,rtsp://115.153.212.72/PLTV/88888888/224/3221226840/59814699.smil
-CCTV10,rtsp://115.153.212.72/PLTV/88888888/224/3221226630/51813372.smil
-CCTV11,rtsp://115.153.212.72/PLTV/88888888/224/3221226986/85722616.smil
-CCTV12,rtsp://115.153.212.72/PLTV/88888888/224/3221226829/59814709.smil
-CCTV13,rtsp://115.153.212.72/PLTV/88888888/224/3221227037/87447722.smil
-CCTV15,rtsp://115.153.212.72/PLTV/88888888/224/3221226988/85722541.smil
-CCTV17,rtsp://115.153.212.72/PLTV/88888888/224/3221226846/61397282.smil
 
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -152,30 +118,16 @@ CCTV17,http://111.20.35.103:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtu
 
 
 
-CCTV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
-CCTV2,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
-CCTV3,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?
-CCTV4,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001221/index.m3u8?
-CCTV5,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001187/index.m3u8?
-CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV6,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001188/index.m3u8?
-CCTV7,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001236/index.m3u8?
-CCTV8,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001189/index.m3u8?
-CCTV9,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001237/index.m3u8?
-CCTV10,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001238/index.m3u8?
-CCTV11,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001309/index.m3u8?
-CCTV12,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001239/index.m3u8?
-CCTV13,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
-CCTV14,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m3u8?
-CCTV15,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001338/index.m3u8?
-CCTV16,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
-CCTV17,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
-CCTV164K,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
+
 
 
 CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR 
+
+CHC家庭影院,http://www.erbao1981.top:8188/udp/239.76.245.241:1234
+CHC高清电影,http://www.erbao1981.top:8188/udp/239.76.245.242:1234
+CHC动作电影,http://www.erbao1981.top:8188/udp/239.76.245.243:1234
 
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -283,10 +235,30 @@ CCTV16,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002395/i
 CCTV17,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
+CCTV-4欧洲,http://123.121.57.237:4022/rtp/239.3.1.213:4220
+CCTV-4美洲,http://123.121.57.237:4022/rtp/239.3.1.214:4220
+
+CCTV4-欧洲,http://www.erbao1981.top:8188/udp/239.76.246.95:1234
+CCTV4-美洲,http://www.erbao1981.top:8188/udp/239.76.246.96:1234
 
 CCTV-4欧洲,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV-4美洲,http://gmxw.7766.org:808/hls/77/index.m3u8
 
+
+
+
+CCTV第一剧场,http://www.erbao1981.top:8188/udp/239.76.247.49:1234
+CCTV风云剧场,http://www.erbao1981.top:8188/udp/239.76.247.50:1234
+CCTV风云音乐,http://www.erbao1981.top:8188/udp/239.76.247.51:1234
+CCTV风云足球,http://www.erbao1981.top:8188/udp/239.76.247.52:1234
+CCTV怀旧剧场,http://www.erbao1981.top:8188/udp/239.76.247.53:1234
+CCTV女性时尚,http://www.erbao1981.top:8188/udp/239.76.247.55:1234
+CCTV央视精品,http://www.erbao1981.top:8188/udp/239.76.247.56:1234
+CCTV世界地理,http://www.erbao1981.top:8188/udp/239.76.247.57:1234
+CCTV央视台球,http://www.erbao1981.top:8188/udp/239.76.247.58:1234
+CCTV兵器科技,http://www.erbao1981.top:8188/udp/239.76.247.59:1234
+CCTV电视指南,http://www.erbao1981.top:8188/udp/239.76.247.61:1234
+CCTV高尔夫网球,http://www.erbao1981.top:8188/udp/239.76.247.62:1234
 
 CCTV第一剧场,http://cfss.vip/ds/ysp/qp.php?id=dyjc&Cf.m3u8
 CCTV怀旧剧场,http://cfss.vip/ds/ysp/qp.php?id=hjjc&Cf.m3u8
@@ -295,7 +267,7 @@ CCTV风云音乐,http://cfss.vip/ds/ysp/qp.php?id=fyyy&Cf.m3u8
 CCTV风云足球,http://cfss.vip/ds/ysp/qp.php?id=fyzq&Cf.m3u8
 CCTV电视指南,http://cfss.vip/ds/ysp/qp.php?id=dszn&Cf.m3u8
 CCTV女性时尚,http://cfss.vip/ds/ysp/qp.php?id=nxss&Cf.m3u8
-CCTV央视文化,http://cfss.vip/ds/ysp/qp.php?id=whjp&Cf.m3u8
+CCTV央视精品,http://cfss.vip/ds/ysp/qp.php?id=whjp&Cf.m3u8
 CCTV世界地理,http://cfss.vip/ds/ysp/qp.php?id=sjdl&Cf.m3u8
 CCTV央视台球,http://cfss.vip/ds/ysp/qp.php?id=ystq&Cf.m3u8
 CCTV兵器科技,http://cfss.vip/ds/ysp/qp.php?id=bqkj&Cf.m3u8
@@ -1625,6 +1597,11 @@ HBO signature,http://208.115.225.174:14160
 
 🇭🇰港台,#genre#
 
+凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.8:1234
+凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
+凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.7:1234
+凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
+
 凤凰资讯,http://175.43.106.64:4022/udp/239.61.2.183:9086
 凤凰资讯,http://175.43.106.64:4022/udp/239.61.5.47:1025
 
@@ -1637,6 +1614,9 @@ HBO signature,http://208.115.225.174:14160
 
 凤凰中文,http://175.43.106.64:4022/udp/239.61.2.184:9092
 凤凰中文,http://175.43.106.64:4022/udp/239.61.5.184:1025
+
+
+
 
 
 
@@ -1709,9 +1689,9 @@ HBO signature,http://208.115.225.174:14160
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
 翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://feng163.com:9000/bysid/1
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
@@ -1928,6 +1908,10 @@ IPTV淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
 IPTV淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
 IPTV淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
 
+IPTV淘电影,http://123.121.57.237:4022/rtp/239.3.1.250:8001
+IPTV淘电影,http://114.254.89.131:2222/rtp/239.3.1.250:8001
+IPTV淘Baby,http://123.121.57.237:4022/rtp/239.3.1.238:8001
+
 
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -1954,6 +1938,31 @@ IPTV淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
 北京纪实科教,http://114.254.89.131:2222/rtp/239.3.1.115:8000
 北京卡酷少儿,http://114.254.89.131:2222/rtp/239.3.1.189:8000
 
+
+湖南经视,http://www.erbao1981.top:8188/udp/239.76.245.116:1234
+湖南都市,http://www.erbao1981.top:8188/udp/239.76.245.117:1234
+湖南影视,http://www.erbao1981.top:8188/udp/239.76.245.118:1234
+湖南电影,http://www.erbao1981.top:8188/udp/239.76.245.119:1234
+金鹰卡通,http://www.erbao1981.top:8188/udp/239.76.245.120:1234
+湖南娱乐,http://www.erbao1981.top:8188/udp/239.76.245.121:1234
+金鹰纪实,http://www.erbao1981.top:8188/udp/239.76.245.122:1234
+湖南爱晚,http://www.erbao1981.top:8188/udp/239.76.245.123:1234
+湖南国际,http://www.erbao1981.top:8188/udp/239.76.245.124:1234
+湖南卫视,http://www.erbao1981.top:8188/udp/239.76.246.101:1234
+湖南经视,http://www.erbao1981.top:8188/udp/239.76.246.103:1234
+湖南都市,http://www.erbao1981.top:8188/udp/239.76.246.104:1234
+湖南娱乐,http://www.erbao1981.top:8188/udp/239.76.246.105:1234
+湖南影视,http://www.erbao1981.top:8188/udp/239.76.246.108:1234
+湖南电影,http://www.erbao1981.top:8188/udp/239.76.246.106:1234
+湖南娱乐,http://www.erbao1981.top:8188/udp/239.76.246.105:1234
+湖南爱晚,http://www.erbao1981.top:8188/udp/239.76.246.109:1234
+湖南国际,http://www.erbao1981.top:8188/udp/239.76.245.240:1234
+湖南国际,http://www.erbao1981.top:8188/udp/239.76.246.102:1234
+湖南教育,http://www.erbao1981.top:8188/udp/239.76.245.233:1234
+长沙女姓,http://www.erbao1981.top:8188/udp/239.76.245.23:1234
+长沙新闻,http://www.erbao1981.top:8188/udp/239.76.246.121:1234
+长沙政法,http://www.erbao1981.top:8188/udp/239.76.246.122:1234
+长沙影视,http://www.erbao1981.top:8188/udp/239.76.245.204:1234
 
 湖南电视剧,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8
 湖南都市,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8
