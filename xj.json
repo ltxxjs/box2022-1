@@ -1,11 +1,12 @@
 //网络配置地址  https://ltxxjs.github.io/m.json(新增)   https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/m.json https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json  https://raw.iqiq.io/ltxxjs/box2022-1/main/m.json
-//https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json
+//https://raw.fgit.cf/ltxxjs/box2022-1/main/xj.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://mirror.ghproxy.com/github.com/ltxxjs/TVBox-pizazzgy/raw/main/spider.jar",
 	
 "sites": [
- {"key":"豆瓣","name":"小军推荐","type":3,"api":"csp_Douban","searchable":0},
+	{"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
+        {"key":"豆瓣","name":"小军推荐","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 	{"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
 	{"key":"二三","name":"二三","type":3,"api":"csp_Ys23","searchable":1,"quickSearch":1,"filterable":1},
@@ -25,7 +26,6 @@
 	{"key":"影视五","name":"影视五","type":3,"api":"csp_Movie2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/ltxxjs/TVBox-pizazzgy/main/EXT/Movie5"},
 	{"key":"九九六","name":"九九六","type":3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"一起看","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-	{"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"短剧网","name":"短剧网","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"加速器","name":"加速器","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
 	{"key":"酷影视","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
@@ -210,8 +210,6 @@
     {"host": "www.007ts.me","rule": ["hls.pchj.net",".m3u8"]},
     {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}
 ],
-
-
 "hotSearch": [{"name": "mobilesearch","request": {"method": "GET","header": [{"key": "Referer","value": "http://101.34.67.237"}],"url": {"raw": "http://101.34.67.237/hotsugg?t={time}"}},"response": {"result": "$.data","data": [{"key": "keyword","value": "title"}]}}],	
 "lives": [
 {"group": "redirect","channels": [{"name": "redirect","urls": [
