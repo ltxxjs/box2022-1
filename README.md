@@ -586,7 +586,7 @@ https://ghps.cc/
 
 https://raw.fgit.cf/
 
-
+https://ghss.lan2wan.top/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar
  
 
 ## TV盒子软件
