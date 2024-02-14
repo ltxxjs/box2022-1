@@ -560,8 +560,9 @@ https://raw.fastgit.org/
 
 https://raw-gh.gcdn.mirr.one/
 
-https://gh.cyao.tk/
+
 https://ghcy.eu.org/(20240114)
+https://github.moeyy.xyz/
 
 https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/m.json
 
