@@ -548,6 +548,15 @@ https://github.com/nxjonson/TVBoxOS/blob/main/app/src/main/java/com/github/tvbox
 
 
 ##加速接口地址
+加速网址，打开后，填入地址，或者选择
+https://ghproxy.com/
+https://ghps.cc/
+https://gh.ddlc.top/
+https://hub.gitmirror.com/
+
+https://gitmirror.com/files.html   （这个是加速网址）
+
+
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 Github RAW 加速服务
 https://www.7ed.net/#/raw-cdn
