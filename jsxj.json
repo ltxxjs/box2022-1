@@ -1,7 +1,7 @@
 {
 
 //https://github.com/ltxxjs/gao/blob/master/js.json(原始数据来源)
-"spider":"https://agit.ai/leevi/PiG/src/branch/master/pg.jar",
+"spider":"https://github.com/ltxxjs/box2022-1/raw/main/jar/pg.jar",
 "lives":[{"name":"初秋语","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ltxxjs/gao/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
