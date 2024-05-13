@@ -555,7 +555,7 @@ https://gh.ddlc.top/
 https://hub.gitmirror.com/
 
 https://gitmirror.com/files.html   （这个是加速网址）
-
+https://down.nigx.cn/   20240514新增
 
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 Github RAW 加速服务
