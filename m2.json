@@ -74,7 +74,7 @@
       "name": "🔞黑料",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./jar/HeChengChaXiu.jar",
+      "jar":"https://mirror.ghproxy.com/https://github.com//tvboxmt/SX/raw/main/🔞福利/jar/HeChengChaXiu.jarj",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -410,7 +410,7 @@
       "name":"🔞桃花族",
       "type":3,
       "api":"csp_Taohuazu",
-      "jar": "./jar/dx.jar",
+      "jar": "https://mirror.ghproxy.com/https://github.com//tvboxmt/SX/raw/main/🔞福利/jar/dx.jar",
       "searchable":1,
       "quickSearch":1, 
       "changeable":1, 
@@ -424,7 +424,7 @@
       "api": "csp_Netflav",
       "searchable": 1,
       "changeable": 0 ,
-      "jar": "./jar/dx.jar"
+      "jar": "https://mirror.ghproxy.com/https://github.com//tvboxmt/SX/raw/main/🔞福利/jar/dx.jar"
     },
     {
       "key": "csp_xBPQ_404精品",
@@ -434,7 +434,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/XYQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://github.com//tvboxmt/SX/raw/main/🔞福利/jar/XYQ.jar",
       "ext": {
           "站名": "404精品",
           "主页url": "https://404jpz.xyz/",
