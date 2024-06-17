@@ -74,7 +74,7 @@
       "name": "🔞黑料",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://mirror.ghproxy.com/https://github.com//tvboxmt/SX/raw/main/🔞福利/jar/HeChengChaXiu.jarj",
+      "jar":"https://mirror.ghproxy.com/https://github.com//tvboxmt/SX/raw/main/🔞福利/jar/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -111,7 +111,7 @@
       "搜索链接前缀": "https://52kkpp.vip",
       "分类url": "https://52kkpp.vip/cq/{cateId}-{catePg}.html"
     },
-      "jar": "./jar/h.jar"
+   
     },  
     {               
       "key": "采集A（精品）",
