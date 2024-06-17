@@ -109,7 +109,8 @@
       "链接前缀": "https://52kkpp.vip",
       "搜索url": "https://52kkpp.vip/cq/vod/search/page/{catePg}/wd/{wd}.html",
       "搜索链接前缀": "https://52kkpp.vip",
-      "分类url": "https://52kkpp.vip/cq/{cateId}-{catePg}.html"
+      "分类url": "https://52kkpp.vip/cq/{cateId}-{catePg}.html"},
+      "jar": "./jar/h.jar"
     },
    
    
@@ -410,7 +411,7 @@
       "name":"🔞桃花族",
       "type":3,
       "api":"csp_Taohuazu",
-      "jar": "https://mirror.ghproxy.com/https://github.com//tvboxmt/SX/raw/main/🔞福利/jar/dx.jar",
+      "jar": "https://mirror.ghproxy.com/https://github.com/tvboxmt/SX/raw/main/🔞福利/jar/dx.jar",
       "searchable":1,
       "quickSearch":1, 
       "changeable":1, 
