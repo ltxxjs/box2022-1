@@ -3,7 +3,7 @@
 //https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json https://mirror.ghproxy.com/raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json（目前效果最好））https://p.ntnas.top/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json
 
 	
-"spider":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/jar/pg.jar;md5;74b4cff33e806401fc7441369fd5bae5",
+"spider":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/jar/pg.jar;md5;c9986646066cf0863a5045a0e31bb8ac",
 // 直播
 "lives":
 [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRm9uZ01pL0NhdFZvZFNwaWRlci9tYWluL3R4dC9hZHVsdC50eHQ="
@@ -14,7 +14,12 @@
 {"key":"csp_YGP","name":"预告片┃新片","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},	
 {"key":"短剧","name":"上头┃短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"酷看","name":"酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-
+{"key":"无忧短剧","name":"无忧短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a"},
+{"key":"在线短剧","name":"在线短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/dspider.jar;md5;4adf1d5aa5fe3706001804de9c74600a"},
+{"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1, "quickSearch": 0, "filterable": 0},
+  
+  
+{"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a"},
 
 {"key":"drpy_js_ikanbot3","name":"爱看机器人┃聚合","type":3,"api":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/js/ikanbot3.js","timeout":60},
 {"key":"T4-duanju5","name":"短剧屋┃聚合","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true,"timeout":60},
