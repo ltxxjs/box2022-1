@@ -159,7 +159,7 @@
 {"key":"*香奶儿","name":"*香奶儿","type":0,"api":"https://www.gdlsp.com/api/xml.php"},
 {"key":"*香奶儿资源","name":"*香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"maozyapi","name":"*色猫","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","playUrl":"https://jx.kujiexi.net/m3u8.php?url=","searchable":1,"quickSearch":1,"filterable":0}
+{"key":"maozyapi","name":"*色猫","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","playUrl":"https://jx.kujiexi.net/m3u8.php?url=","searchable":1,"quickSearch":1,"filterable":0},
 
 
  //20240617xinzeng 
