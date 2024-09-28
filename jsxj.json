@@ -36,7 +36,7 @@
 
   
   
-{"key":"无忧短剧","name":"无忧｜短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;3d2afc747cc1af7d1bdf02af7ffbdeab"},
+{"key":"无忧短剧","name":"无忧｜短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f"},
 {"key":"在线短剧","name":"在线｜短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f"},
 {"key":"星芽短剧","name":"星芽｜短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f"},
 {"key":"天堂短剧","name":"天堂｜短剧","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/天堂短剧.js"},
