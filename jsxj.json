@@ -161,6 +161,74 @@
 {"key":"Funletu","name":"夸克  | 趣盘搜[jar]","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.gitmirror.com/ltxxjs/gao/master/lib/token.json"},
 {"key":"QuarkPanso","name":"夸克 | 盘搜[jar]","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://raw.gitmirror.com/ltxxjs/gao/master/lib/token.json"},
 
+
+   {
+      "key": "酷奇",
+      "name": "🎤┃酷奇┃MV",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js"
+    },
+    {
+      "key": "MTV",
+      "name": "🎧┃明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+    },
+    {
+      "key": "虎牙直播js",
+      "name": "🐯┃虎牙┃直播",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "playerType": 1,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js"
+    },
+    {
+      "key": "斗鱼js",
+      "name": "🐟┃斗鱼┃直播",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "playerType": 1,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js"
+    },
+    {
+      "key": "聚短视频js",
+      "name": "📽┃️聚短┃视频",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js"
+    },
+    {
+      "key": "drpy_js_310直播",
+      "name": "🏀┃体育┃直播",
+      "type": 3,
+      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      },
+      "ext": "http://js.xn--z7x900a.com/js/310直播.js"
+    },
+   {"key": "js_4KHDR","name": "🧲世界磁力┃Js","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext": "https://raw.liucn.cc/box/libs/js/4khdr.js" },
+    {"key": "js_6V","name": "✡️六维磁力┃Js","type": 3,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.liucn.cc/box/libs/js/6V.js"},
+    {"key": "js_磁力熊","name": "🐻‍贝尔磁力┃Js","type": 3,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.liucn.cc/box/libs/js/bear.js"},
+    {"key": "js_酷吧","name": "😎酷吧磁力┃Js","type": 3,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.liucn.cc/box/lib/dr/kuba.js"},
+    {"key": "XYQH_电影港","name": "🛳┃港口┃磁力","type": 3,"playerType": 1,"api": "csp_XYQHiker","jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/港口.json"},
+    {"key": "csp_MeijuMi","name": "🧲美剧迷","type": 3,"api": "csp_MeijuMi","searchable": 1,"quickSearch": 1,"jar": "https://raw.liucn.cc/box/libs/jar/xyq.jar","filterable": 1},
+    {"key": "csp_Xunlei8","name": "🧲迅雷吧","type": 3,"api": "csp_Xunlei8","searchable": 1,"quickSearch": 1,"jar": "https://raw.liucn.cc/box/libs/jar/xyq.jar","filterable": 1},
+
  {
       "key": "爱奇艺",
       "name": "🥝官源┃爱爱",
