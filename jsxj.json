@@ -187,7 +187,7 @@
 {"key":"Xpanpan","name":"弹幕 | 小盘盘[jar]","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://raw.gitmirror.com/ltxxjs/gao/master/lib/token.json$$$https://xpanpan.site$$$null$$$1"},
 {"key":"Gaoqing","name":"弹幕 | 高清网[jar]","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
 {"key":"音范丝","name":"弹幕 | 音范丝[jar]","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://raw.gitmirror.com/ltxxjs/gao/master/lib/token.json$$$https://www.yinfans.me/$$$proxy$$$1"},
-
+{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
 {"key":"YingSo","name":"磁力 | 影搜[jar]","type":3,"api":"csp_YingSo","timeout":60, "ext":"https://raw.gitmirror.com/ltxxjs/gao/master/lib/token.json$$$1"},
 {"key":"盘友圈","name":"网盘 | 盘友圈","type":3,"api":"csp_Panyq","timeout":60, "ext":"https://raw.gitmirror.com/ltxxjs/gao/master/lib/token.json"},
 {"key":"88Pan","name":"网盘 | 88网盘[jar]","type":3,"api":"csp_EightEight","timeout":30, "ext":"https://raw.gitmirror.com/ltxxjs/gao/master/lib/token.json$$$https://662688.xyz"},
