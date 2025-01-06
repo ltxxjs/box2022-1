@@ -4,7 +4,7 @@
 //"spider":"https://22mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/jar/pg.jar",
 //"spider":"https://raw.gitmirror.com/ltxxjs/gao/master/jar/pg.jar",
 //"spider":"https://raw.gitmirror.com/ltxxjs/TVBox-pizazzgy/main/spider.jar",
-"spider":"https://github.catvod.com/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/pg.jar;md5;f2d7d608ebbce726193cd96a2f16e416",
+"spider":"https://github.catvod.com/https://github.com/ltxxjs/box2022-1/raw/refs/heads/main/jar/ts0106.jar;md5;f2d7d608ebbce726193cd96a2f16e416",
   
 "lives":[{"name":"小军直播","type":0,"url":"https://tlxxjs.serv00.net/tvlist2024.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
