@@ -170,7 +170,8 @@
             "key": "MissAV全分类",
             "name": "❤️MissAV|全分类",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_XBPQ","jar":"./jar/XBPQ.jar",
+	
             "playerType": "2",
             "quickSearch": 1,
             "style": {
