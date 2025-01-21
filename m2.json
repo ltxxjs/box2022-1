@@ -19,7 +19,7 @@
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1, "quickSearch": 0, "filterable": 0},
   
   
-{"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a"},
+{"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar"},
 
 {"key":"drpy_js_ikanbot3","name":"爱看机器人┃聚合","type":3,"api":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/js/ikanbot3.js","timeout":60},
 {"key":"T4-duanju5","name":"短剧屋┃聚合","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true,"timeout":60},
@@ -170,7 +170,7 @@
             "key": "MissAV全分类",
             "name": "❤️MissAV|全分类",
             "type": 3,
-            "api": "csp_XBPQ","jar":"./jar/XBPQ.jar",
+            "api": "csp_XBPQ","jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar",
 	
             "playerType": "2",
             "quickSearch": 1,
