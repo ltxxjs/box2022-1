@@ -83,7 +83,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar"
+      "jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar",
       "ext": "https://weixine.net/json/hema.json"
     },
     {
@@ -91,7 +91,7 @@
       "name": "🚛好帅┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar"
+      "jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar",
       "ext": {
         "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
         "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
@@ -103,7 +103,7 @@
       "name": "🚛爱我┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar"
+      "jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar",
       "ext": "https://weixine.net/json/awdj.json"
     },
     {
