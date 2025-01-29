@@ -1,123 +1,22 @@
-{ "urls":
-[
-
-  
-  
-  
-{ "url": "https://tlxxjs.serv00.net/jsxj.json", "name": "小军带你看" },  
-  
- { "url": "https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json", "name": "小橙子" },
-    
-    { "url": "https://play.iptv365.org/饭太硬/api.json", "name": "饭太硬" },
-
-    { "url": "https://play.iptv365.org/小米/api.json", "name": "小米" },
-
-    { "url": "https://play.iptv365.org/肥猫/api.json", "name": "肥猫" },
-
-    { "url": "https://play.iptv365.org/菜妮丝/api.json", "name": "菜妮丝" },
-
-    { "url": "https://play.iptv365.org/王二小/api.json", "name": "王二小" },
-
-    { "url": "https://play.iptv365.org/摸鱼儿/api.json", "name": "摸鱼儿" },
-
-    { "url": "https://play.iptv365.org/PG/api.json", "name": "PG" },
-
-    { "url": "https://play.iptv365.org/潇洒/api.json", "name": "潇洒" },
-
-    { "url": "https://play.iptv365.org/天天开心/api.json", "name": "天天开心" },
-
-    { "url": "https://play.iptv365.org/香雅情/api.json", "name": "香雅情" },
-    { "url": "https://play.iptv365.org/南风/api.json", "name": "南风" },
-
-    { "url": "https://play.iptv365.org/骚零/api.json", "name": "骚零" },
-
-    { "url": "https://play.iptv365.org/白嫖/api.json", "name": "白嫖" },
-
-    { "url": "https://play.iptv365.org/OK/api.json", "name": "OK" },
-
-    { "url": "https://play.iptv365.org/戏曲音乐/api.json", "name": "戏曲音乐" },
-
-    { "url": "https://play.iptv365.org/短剧频道/api.json", "name": "短剧频道" },
-
-    { "url": "https://play.iptv365.org/少儿频道/api.json", "name": "少儿频道" },
-
-    { "url": "https://play.iptv365.org/动漫频道/api.json", "name": "动漫频道" },
-
-    { "url": "https://play.iptv365.org/iptv365/api.json", "name": "iptv365直播" },
-
- {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/饭太硬/api.json",
-            "name": "饭太硬"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/小米/api.json",
-            "name": "小米"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/肥猫/api.json",
-            "name": "肥猫"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/drpy_t3/api.json",
-            "name": "drpy_t3精选"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/南风/api.json",
-            "name": "南风"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/OK/api.json",
-            "name": "OK"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/PG/api.json",
-            "name": "PG"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/摸鱼儿/api.json",
-            "name": "摸鱼儿"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/短剧频道/api.json",
-            "name": "短剧频道"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/欧歌/api.json",
-            "name": "欧歌"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/骚零/api.json",
-            "name": "骚零"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/天天开心/api.json",
-            "name": "天天开心"
-        },
-        {
-        	"url": "https://bitbucket.org/ls125781003/tvtg/raw/main/王二小/api.json",
-            "name": "王二小"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/香雅情/api.json",
-            "name": "香雅情"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/潇洒/api.json",
-            "name": "潇洒"
-        },
-        {
-            "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/戏曲音乐/api.json",
-            "name": "戏曲音乐"
-        },
-  {
-            "url": "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
-            "name": "唐三"
-        }
-
-      
-
-
-
+{"urls":[
+  {"url":"https://tlxxjs.serv00.net/jsxj.json","name":"小军带你看"},
+  {"url":"https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json","name":"小橙子"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/饭太硬/api.json","name":"饭太硬"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/小米/api.json","name":"小米"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/肥猫/api.json","name":"肥猫"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/drpy_t3/api.json","name":"drpy_t3精选"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/南风/api.json","name":"南风"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/OK/api.json","name":"OK"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/PG/api.json","name":"PG"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/摸鱼儿/api.json","name":"摸鱼儿"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/短剧频道/api.json","name":"短剧频道"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/欧歌/api.json","name":"欧歌"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/骚零/api.json","name":"骚零"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/天天开心/api.json","name":"天天开心"},
+  {	"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/王二小/api.json","name":"王二小"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/香雅情/api.json","name":"香雅情"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/潇洒/api.json","name":"潇洒"},
+  {"url":"https://bitbucket.org/ls125781003/tvtg/raw/main/戏曲音乐/api.json","name":"戏曲音乐"},
+  {"url":"https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json","name":"唐三"}
 ]
 }
-
