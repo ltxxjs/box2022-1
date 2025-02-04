@@ -3,13 +3,13 @@
 //https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json https://mirror.ghproxy.com/raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json（目前效果最好））https://p.ntnas.top/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json
 
 	
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737293598878/0119.jar;md5;bcbb8e59d3125612721142763fb8f8d7",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
 // 直播
 "lives":
 [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRm9uZ01pL0NhdFZvZFNwaWRlci9tYWluL3R4dC9hZHVsdC50eHQ="
 ]}]}],
 "sites": [
-{"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_Douban","searchable": 0},
 {"key":"drpy_js_新片场","name":"新片场┃新片","type":3,"api":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/js/新片场.js"},
 {"key":"csp_YGP","name":"预告片┃新片","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},	
 {"key":"短剧","name":"上头┃短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1},
@@ -19,9 +19,10 @@
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1, "quickSearch": 0, "filterable": 0},
   
   
-{"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar"},
+{"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"https://raw.liucn.cc/box/libs/jar/XYQH.jar"},
 
-{"key":"drpy_js_ikanbot3","name":"爱看机器人┃聚合","type":3,"api":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/js/ikanbot3.js","timeout":60},
+{"key": "荐片","name": "🎬┃荐片┃影视","api": "csp_Jianpian","type": 3,"playerType": "2","ext": "http://api2.rinhome.com","jar": "https://raw.liucn.cc/box/libs/jar/Panda.jar"},
+{"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar"},
 {"key":"T4-duanju5","name":"短剧屋┃聚合","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true,"timeout":60},
 {"key":"苹果","name":"小苹果┃复活","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
