@@ -35,7 +35,15 @@
 {"key":"csp_LaoBaiBook","name":"听书┃BOOK","type":3,"api":"csp_LaoBaiBook","playerType":2,"searchable":1,"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_Bili","name":"哔哩┃哔哩","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"https://drive.almondcloud.cn/f/odVjUB/bili.json","cookie":""},"style":{"type":"rect","ratio":1.333}},
 {"key":"荐片","name":"荐片┃磁力","api":"csp_Jianpian","type":3,"playerType":"1","ext":"http://api2.rinhome.com"},
-
+{
+      "key": "WexrenrenGuard",
+      "name": "人人┃影视",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737987854196/wex.txt;md5;7c3f9f7fb55f13fbc874079a20949fa5",
+      "api": "csp_WexrenrenGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
 //以上
  {"key":"豆瓣","name":"小军推荐]","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://raw.gitmirror.com/ltxxjs/gao/master/json/douban.json"}, 
 //{"key":"drpy_js_豆瓣","name":"搜索 |小军推荐[js]","type":3,"api":"https://raw.gitmirror.com/ltxxjs/gao/master/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/ltxxjs/gao/master/js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
