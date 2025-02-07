@@ -22,7 +22,7 @@
 {"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"https://raw.liucn.cc/box/libs/jar/XYQH.jar"},
 
 {"key": "荐片","name": "🎬┃荐片┃影视","api": "csp_Jianpian","type": 3,"playerType": "2","ext": "http://api2.rinhome.com","jar": "https://raw.liucn.cc/box/libs/jar/Panda.jar"},
-{"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar"},
+
 {"key":"T4-duanju5","name":"短剧屋┃聚合","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true,"timeout":60},
 {"key":"苹果","name":"小苹果┃复活","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
