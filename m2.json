@@ -3,7 +3,7 @@
 //https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json https://mirror.ghproxy.com/raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json（目前效果最好））https://p.ntnas.top/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json
 
 	
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737293598878/0119.jar;md5;bcbb8e59d3125612721142763fb8f8d7",
+"spider":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/jar/pg.jar;md5;c9986646066cf0863a5045a0e31bb8ac",
 // 直播
 "lives":
 [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRm9uZ01pL0NhdFZvZFNwaWRlci9tYWluL3R4dC9hZHVsdC50eHQ="
@@ -19,7 +19,7 @@
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1, "quickSearch": 0, "filterable": 0},
   
   
-{"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar"},
+{"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a"},
 
 {"key":"drpy_js_ikanbot3","name":"爱看机器人┃聚合","type":3,"api":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://github.com/ltxxjs/gao/raw/master/js/ikanbot3.js","timeout":60},
 {"key":"T4-duanju5","name":"短剧屋┃聚合","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true,"timeout":60},
@@ -166,34 +166,7 @@
 {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"maozyapi","name":"*色猫","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","playUrl":"https://jx.kujiexi.net/m3u8.php?url=","searchable":1,"quickSearch":1,"filterable":0},
 
-{
-            "key": "MissAV全分类",
-            "name": "❤️MissAV|全分类",
-            "type": 3,
-            "api": "csp_XBPQ","jar":"https://gh-proxy.llyke.com/https://github.com/ltxxjs/gao/raw/refs/heads/master/jar/XBPQ.jar",
-	
-            "playerType": "2",
-            "quickSearch": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            },
-            "searchable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://missav.ws/dm10/cn",
-                "数组": "\"lozad&&</div>[不包含:item.dvd_id]",
-                "图片": "src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "<span class=\"absolute*>&&</span",
-                "简介": "keywords\" content=\"&&\"",
-                "链接": "href=\"&&\"",
-                "搜索url": "https://missav.com/ws/search/{wd}?page={pg}",
-                "分类url": "https://missav.ws/{cateId}?page={catePg};;z",
-                "分类": "中文字幕$dm265/cn/chinese-subtitle#最近更新$dm509/cn/new#新作上市$dm504/cn/release#无码流出$dm558/cn/uncensored-leak#VR$cn/genres/VR#今日热门$dm242/cn/today-hot#本週热门$dm167/cn/weekly-hot#本月热门$dm206/cn/monthly-hot#SIRO$dm23/cn/siro#LUXU$dm20/cn/luxu#GANA$dm17/cn/gana#PRESTIGE PREMIUM$dm14/cn/maan#S-CUTE$dm23/cn/scute#ARA$dm19/cn/ara#无码流出$dm558/cn/uncensored-leak#FC2$dm94/cn/fc2#HEYZO$dm621/cn/heyzo#东京热$dm29/cn/tokyohot#一本道$dm39925/cn/1pondo#Caribbeancom$dm75695/cn/caribbeancom#Caribbeancompr$dm1200/cn/caribbeancompr#10musume$dm39286/cn/10musume#pacopacomama$dm663/cn/pacopacomama#Gachinco$dm135/cn/gachinco#XXX-AV$dm25/cn/xxxav#人妻斩$dm24/cn/marriedslash#顽皮 4610$dm19/cn/naughty4610#顽皮 0930$dm22/cn/naughty0930#麻豆传媒$dm31/cn/madou#TWAV$dm17/cn/twav#Furuke$dm14/cn/furuke"
-            }
-        },
+
  //20240617xinzeng 
 
 {"key":"*色猫资源","name":"*色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0},
