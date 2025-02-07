@@ -9,7 +9,7 @@
 [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRm9uZ01pL0NhdFZvZFNwaWRlci9tYWluL3R4dC9hZHVsdC50eHQ="
 ]}]}],
 "sites": [
-{"key":"豆瓣","name":"🌈豆瓣┃新年快乐：接口已移交开源平台请测试完删除处理","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣","name":"🌈豆瓣┃小军推荐","type":3,"api":"csp_Douban","searchable":0},
 {"key":"配置","name":"⚙️网盘┃配置中心","type":3,"changeable":0,"searchable":0,"api":"csp_Config"},
 {"key":"csp_SuBaiBai","name":"☁️白白┃1080P","type":3,"searchable":1,"api":"csp_SuBaiBai","playerType":2,"ext":"https://www.subaibaiys.com/"},
 {"key":"wencai","name":"🥭文采┃1080P","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"https://www.hkybqufgh.com"},
