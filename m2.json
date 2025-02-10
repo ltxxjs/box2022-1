@@ -31,6 +31,31 @@
 {"key":"csp_良人","name":"👨良人┃1080P","type":3,"searchable":1,"quickSearch":1,"api":"csp_MiTuApp","ext":"sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="},
 {"key":"csp_麻花","name":"🥙麻花┃1080P","type":3,"searchable":1,"quickSearch":1,"api":"csp_YuDi","ext":"sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XBU5Prcv6yXYl+buEHnrog7tDJv0Oruu3XbWiSeYcmXyu0bWlgyI7I+ExxK+yX2Fm4="},{"key":"csp_LaoBaiBook","name":"📚听书┃BOOK","type":3,"api":"csp_LaoBaiBook","playerType":2,"searchable":1,"quickSearch":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_Bili","name":"🆎哔哩┃哔哩","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"https://drive.almondcloud.cn/f/odVjUB/bili.json","cookie":""},"style":{"type":"rect","ratio":1.333}},
+
+
+
+{"key": "155", "name": "18+性交采集", "type": 0, "playerType": 2,"api": "https://155api.com/api.php/provide/vod/at/xml","searchable": 0,"quickSearch": 0},
+{"key": "奥斯卡资源网","name": "18+奥斯卡资源网","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
+{"key":"fhapi9.com","name":"18+1","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"msnii.com","name":"18+2","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"gdlsp.com","name":"18+3","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"kxgav.com","name":"18+4","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"xrbsp.com","name":"18+5","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"pgxdy.com","name":"18+6","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"kkzy.me","name":"18+7","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"apittzy.com","name":"18+8","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"lbapi9.com","name":"18+9","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},     
+{"key":"apilj.com","name":"18+10","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"dadiapi.com","name":"18+11","type":0,"api":"http://dadiapi.com/api.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"api.sexnguon.com","name":"18+12","type":1,"api":"http://api.sexnguon.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+
+{"key":"lbapiby.com","name":"18+13","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+ { "key": "鲨鱼18+", "name": "18+鲨鱼", "type": 0, "api": "https://shayuapi.com/api.php/Seacms/vod", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+ 
+
+ { "key": "(18+)探探资源", "name": "18+探探资源", "type": 0, "api": "https://apittzy.com/api.php/provide/vod/at/xml", "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+
+
 	
 {"key":"kd","name":"酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"kulunli","name":"酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
