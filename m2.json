@@ -6,8 +6,7 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737293598878/0119.jar;md5;bcbb8e59d3125612721142763fb8f8d7",
 // 直播
 "lives":
-[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRm9uZ01pL0NhdFZvZFNwaWRlci9tYWluL3R4dC9hZHVsdC50eHQ="
-]}]}],
+[{"name":"小军直播","type":0,"url":"https://tlxxjs.serv00.net/tvlist2024.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
 {"key":"豆瓣","name":"🌈豆瓣┃小军推荐","type":3,"api":"csp_Douban","searchable":0},
 {"key":"配置","name":"⚙️网盘┃配置中心","type":3,"changeable":0,"searchable":0,"api":"csp_Config"},
