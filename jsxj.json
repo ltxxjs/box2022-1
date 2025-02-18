@@ -11,8 +11,6 @@
 "sites":[
  //20221011
 {"key":"豆瓣","name":"小军推荐","type":3,"api":"csp_Douban","searchable":0},
-{"key":"csp_Wogg","name":"笠玩偶┃4K弹幕","type":3,"api":"csp_Wogg","filterable":1,"ext":{"site_urls":["https://wogg.xxooo.cf","http://www.wogg.bf","https://www.wogg.net"],"token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
-{"key":"csp_Netfixtv","name":"至臻┃4K弹幕","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://mihdr.top","http://www.miqk.cc","http://www.xhww.net","http://xhww.net","https://xiaomiai.site"],"url_key":"Netfixtv","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
 {"key":"csp_UC","name":"小米┃UC4K4K","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://www.54271.fun/","https://www.milvdou.fun","http://54271.fun/","http://milvdou.fun"],"url_key":"UC","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
 {"key":"csp_Bili","name":"哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":1,"ext":{"json":"https://drive.almondcloud.cn/f/odVjUB/bili.json","cookie":""},"style":{"type":"rect","ratio":1.333}},
 {"key":"88看球","name":"看球┃直播","type":3,"api":"https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"ext":"https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"},
@@ -37,6 +35,9 @@
 {"key":"Aid","name":"有来┃急救","type":3,"api":"csp_FirstAid","searchable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"csp_LaoBaiBook","name":"老白┃听书","type":3,"api":"csp_LaoBaiBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_Bili","name":"哔哩┃哔哩","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"https://drive.almondcloud.cn/f/odVjUB/bili.json","cookie":""},"style":{"type":"rect","ratio":1.333}},
+  {"key":"csp_Wogg","name":"笠玩偶┃4K弹幕","type":3,"api":"csp_Wogg","filterable":1,"ext":{"site_urls":["https://wogg.xxooo.cf","http://www.wogg.bf","https://www.wogg.net"],"token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
+{"key":"csp_Netfixtv","name":"至臻┃4K弹幕","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["https://mihdr.top","http://www.miqk.cc","http://www.xhww.net","http://xhww.net","https://xiaomiai.site"],"url_key":"Netfixtv","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":400,"threads":12}}},
+
 {"key":"荐片","name":"荐片┃磁力","api":"csp_Jianpian","type":3,"playerType":"1","ext":"http://api2.rinhome.com"},
 {
       "key": "WexrenrenGuard",
