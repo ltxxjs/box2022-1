@@ -1,4 +1,4 @@
-https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/spider.jar
+//https://raw.kkgithub.com/ltxxjs/tvboxtg/main/潇洒/spider.jar
 
 
 {
@@ -8,7 +8,7 @@ https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/spider.jar
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣｜首页",
+            "name": "小军推荐",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
