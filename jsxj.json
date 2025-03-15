@@ -1,8 +1,9 @@
-//https://raw.kkgithub.com/ltxxjs/tvboxtg/main/潇洒/spider.jar
+//https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/潇洒/api.json
+
 
 
 {
-    "spider": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/spider.jar",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
@@ -51,7 +52,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
         },
         {
             "key": "厂长弹幕",
@@ -147,7 +148,7 @@
             },
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JSON/哔哩合集.json"
+                "json": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JSON/哔哩合集.json"
             },
             "timeout": 10
         },
@@ -171,43 +172,43 @@
             "key": "腾讯弹幕",
             "name": "腾讯｜弹幕",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/腾讯弹幕.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/腾讯弹幕.js"
         },
         {
             "key": "优酷弹幕",
             "name": "优酷｜弹幕",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/优酷弹幕.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/优酷弹幕.js"
         },
         {
             "key": "芒果弹幕",
             "name": "芒果｜弹幕",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/芒果弹幕.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/芒果弹幕.js"
         },
         {
             "key": "爱奇艺弹幕",
             "name": "爱奇艺｜弹幕",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/爱奇艺弹幕.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/爱奇艺弹幕.js"
         },
         {
             "key": "米兔弹幕",
             "name": "米兔｜弹幕",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/米兔弹幕.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/米兔弹幕.js"
         },
         {
             "key": "追剧弹幕",
             "name": "追剧｜弹幕",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/追剧弹幕.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/追剧弹幕.js"
         },
         {
             "key": "三六零弹幕",
@@ -447,7 +448,7 @@
             "api": "csp_Wexleijing",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
         },
         {
             "key": "天翼",
@@ -456,7 +457,7 @@
             "api": "csp_Wextyso",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
         },
         {
             "key": "盘他",
@@ -465,7 +466,7 @@
             "api": "csp_WexYDpanta",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
         },
         {
             "key": "Emby",
@@ -474,7 +475,7 @@
             "api": "csp_Wexemby",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/wex.jar"
         },
         {
             "key": "星芽短剧",
@@ -503,14 +504,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/爱我短剧.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/爱我短剧.json"
         },
         {
             "key": "短剧网",
             "name": "短剧网｜短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/短剧网.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/短剧网.json"
         },
         {
             "key": "短剧屋",
@@ -520,7 +521,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/短剧屋.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/短剧屋.json"
         },
         {
             "key": "韩小圈",
@@ -545,7 +546,7 @@
             "key": "猎手影视",
             "name": "猎手｜APP",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/PY/猎手影视.py",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/PY/猎手影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -838,8 +839,8 @@
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/采集之王.js?type=url&params=.https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JSON/采集静态.json$1$1"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/采集之王.js?type=url&params=.https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JSON/采集静态.json$1$1"
         },
         {
             "key": "爱看机器人",
@@ -855,14 +856,14 @@
             "name": "农民｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/农民影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/农民影视.json"
         },
         {
             "key": "秀儿影视",
             "name": "秀儿｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/秀儿影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/秀儿影视.json"
         },
         {
             "key": "低端影视",
@@ -961,42 +962,42 @@
             "name": "可可｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/可可影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/可可影视.json"
         },
         {
             "key": "海纳影视",
             "name": "海纳｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/海纳影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/海纳影视.json"
         },
         {
             "key": "面包影视",
             "name": "面包｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/面包影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/面包影视.json"
         },
         {
             "key": "永乐影视",
             "name": "永乐｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/永乐影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/永乐影视.json"
         },
         {
             "key": "雪糕影视",
             "name": "雪糕｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/雪糕影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/雪糕影视.json"
         },
         {
             "key": "流光影视",
             "name": "流光｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/流光影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/流光影视.json"
         },
         {
             "key": "金牌影视",
@@ -1031,22 +1032,22 @@
             "key": "思古影视",
             "name": "思古｜影视",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/思古影视.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/思古影视.js"
         },
         {
             "key": "魔力高清",
             "name": "魔力｜影视",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/魔力高清.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/魔力高清.js"
         },
         {
             "key": "碟调影视",
             "name": "碟调｜影视",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/碟调影视.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/碟调影视.js"
         },
         {
             "key": "百思派",
@@ -1056,7 +1057,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/百思派.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/百思派.json"
         },
         {
             "key": "电影牛",
@@ -1066,42 +1067,42 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/电影牛.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/电影牛.json"
         },
         {
             "key": "素白白",
             "name": "素白白｜影视",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/素白白.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/素白白.js"
         },
         {
             "key": "剧圈圈",
             "name": "剧圈圈｜影视",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/剧圈圈.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/剧圈圈.js"
         },
         {
             "key": "追剧迷",
             "name": "追剧迷｜影视",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/追剧迷.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/追剧迷.js"
         },
         {
             "key": "看了么",
             "name": "看了么｜影视",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/看了么.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/看了么.js"
         },
         {
             "key": "茶杯狐",
             "name": "茶杯狐｜影视",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/茶杯狐.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/茶杯狐.js"
         },
         {
             "key": "1905",
@@ -1349,28 +1350,28 @@
             "style": {
                 "type": "list"
             },
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/哆啦新番社.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/哆啦新番社.json"
         },
         {
             "key": "56动漫",
             "name": "56｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/56动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/56动漫.js"
         },
         {
             "key": "NT动漫",
             "name": "NT｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/NT动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/NT动漫.js"
         },
         {
             "key": "Anime1",
             "name": "Anime1｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/Anime1.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/Anime1.js"
         },
         {
             "key": "DFun动漫",
@@ -1406,85 +1407,85 @@
             "key": "动画片",
             "name": "动画片｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/动画片大全.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/动画片大全.js"
         },
         {
             "key": "路漫漫",
             "name": "路漫漫｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/路漫漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/路漫漫.js"
         },
         {
             "key": "动漫岛",
             "name": "动漫岛｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/动漫岛.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/动漫岛.js"
         },
         {
             "key": "去看吧",
             "name": "去看吧｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/去看吧.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/去看吧.js"
         },
         {
             "key": "爱弹幕",
             "name": "爱弹幕｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/爱弹幕.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/爱弹幕.js"
         },
         {
             "key": "异世界",
             "name": "异世界｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/异世界.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/异世界.js"
         },
         {
             "key": "好看动漫",
             "name": "好看｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/好看动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/好看动漫.js"
         },
         {
             "key": "奇米动漫",
             "name": "奇米｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/奇米动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/奇米动漫.js"
         },
         {
             "key": "怡萱动漫",
             "name": "怡萱｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/怡萱动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/怡萱动漫.js"
         },
         {
             "key": "花子动漫",
             "name": "花子｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/花子动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/花子动漫.js"
         },
         {
             "key": "动漫巴士",
             "name": "巴士｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/动漫巴士.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/动漫巴士.js"
         },
         {
             "key": "樱花动漫",
             "name": "樱花｜动漫",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/樱花动漫.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/樱花动漫.js"
         },
         {
             "key": "搜索弹幕",
@@ -1601,7 +1602,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/修罗影视.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/修罗影视.json"
         },
         {
             "key": "80S",
@@ -1636,8 +1637,8 @@
             "key": "磁力熊",
             "name": "磁力熊｜磁力",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/磁力熊.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/磁力熊.js"
         },
         {
             "key": "美剧迷",
@@ -1665,7 +1666,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/电影港.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/电影港.json"
         },
         {
             "key": "狐狸君",
@@ -1676,7 +1677,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/狐狸君.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/狐狸君.json"
         },
         {
             "key": "布谷TV",
@@ -1686,7 +1687,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/布谷TV.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/布谷TV.json"
         },
         {
             "key": "BT天堂",
@@ -1696,7 +1697,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/BT天堂.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/XYQHiker/BT天堂.json"
         },
         {
             "key": "Mp4电影",
@@ -1784,7 +1785,7 @@
             "indexs": 0,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "share": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/alishare.txt"
+                "share": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/alishare.txt"
             },
             "style": {
                 "type": "list"
@@ -1794,8 +1795,8 @@
             "key": "短剧合集",
             "name": "短剧｜合集",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/quark.min.js",
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/短剧合集.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/quark.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JS/短剧合集.js",
             "style": {
                 "type": "list"
             }
@@ -1811,7 +1812,7 @@
             "style": {
                 "type": "list"
             },
-            "ext": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JSON/alist.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/JSON/alist.json"
         },
         {
             "key": "网络直播",
@@ -2095,7 +2096,7 @@
         {
             "name": "ITV",
             "type": 0,
-            "url": "https://raw.kkgithub.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/ITV.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/%E6%BD%87%E6%B4%92/ITV.txt",
             "epg": "http://epg.51zmt.top:8000/e.xml",
             "ua": "okhttp/3.15,AptvPlayer/1.4.0",
             "timeout": 3,
