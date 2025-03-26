@@ -1,10 +1,15 @@
 {
 	"urls": [
         {
+            "url": "http://gh-proxy.tlxxjs.ip-ddns.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/refs/heads/main/jsxj.json",
+            "name": "小军带你看"
+        },
+	{
             "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/饭太硬/api.json",
             "name": "饭太硬"
         },
-        {
+   
+	{
             "url": "https://bitbucket.org/ls125781003/tvtg/raw/main/小米/api.json",
             "name": "小米"
         },
