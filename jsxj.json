@@ -2048,84 +2048,11 @@
         }
     ],
   "lives": [
-        {
-            "name": "ITV",
-            "type": 0,
-            "url": "https://9877.kstore.space/Live/ITV.txt",
-            "epg": "http://epg.51zmt.top:8000/e.xml",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 5,
-            "playerType": 2
-        },
-        {
-            "name": "肥羊直播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/live.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "虎牙一起看",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/huyayqk.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "斗鱼一起看",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/douyuyqk.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "YY轮播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "https://9877.kstore.space/Live/yylunbo.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "电视Live",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "网络Live",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Live",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "范明明",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "timeout": 10
-        },
+      
         {
             "name": "APTV",
             "type": 0,
-            "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+            "url": "https://wget.la/https://raw.githubusercontent.com/ltxxjs/iptv-api/refs/heads/master/output/result.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png",
             "ua": "okhttp/3.15,AptvPlayer/1.4.0",
