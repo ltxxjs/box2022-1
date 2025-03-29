@@ -1,7 +1,7 @@
 {
 	"urls": [
         {
-            "url": "http://gh-proxy.tlxxjs.ip-ddns.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/refs/heads/main/jsxj.json",
+            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ltxxjs/box2022-1/refs/heads/main/jsxj.json",
             "name": "小军带你看"
         },
 	{
@@ -96,7 +96,7 @@
             "name": "精简多线-云盘"
         },
     {
-            "url": "https://raw.gitmirror.com/ltxxjs/box2022-1/main/m2.json",
+            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json",
             "name": "深夜剧场"
         }
     ]
