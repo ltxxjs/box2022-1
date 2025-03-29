@@ -2052,7 +2052,7 @@
         {
             "name": "APTV",
             "type": 0,
-            "url": "https://wget.la/https://raw.githubusercontent.com/ltxxjs/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/live.txt",
+            "url": "http://gh-proxy.tlxxjs.ip-ddns.com/https://raw.githubusercontent.com/ltxxjs/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png",
             "ua": "okhttp/3.15,AptvPlayer/1.4.0",
