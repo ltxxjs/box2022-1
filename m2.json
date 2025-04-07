@@ -8,7 +8,7 @@
     "logo": "http://php.540734621.xyz/logo/logo.php",
 // 直播
 "lives":
-[{"name":"小军直播","type":0,"url":"https://tlxxjs.serv00.net/tvlist2024.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+[{"name":"小军直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
    {
             "key": "豆瓣",
