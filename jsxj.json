@@ -2,9 +2,6 @@
 
  //https://tvbox.919588.xyz/ltxxjs/box2022-1/refs/heads/main/jsxj.json
 
-
-
-
 {
     "spider": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
@@ -12,7 +9,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "小军推荐",
+            "name": "豆瓣｜首页",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -97,6 +94,29 @@
             "ext": "http://cmsyt114.lyyytv.cn/api.php/app/"
         },
         {
+            "key": "乐享影视",
+            "name": "乐享｜影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://114.66.55.28:8818/api.php/app/"
+        },
+        {
+            "key": "金牌影视",
+            "name": "金牌｜影视",
+            "type": 3,
+            "api": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/金牌影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": {
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+            }
+        },
+        {
             "key": "哔哩视频",
             "name": "哔哩｜视频",
             "type": 3,
@@ -179,7 +199,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/wogg.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/wogg.json"
         },
         {
             "key": "木偶",
@@ -189,7 +209,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/mogg.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/mogg.json"
         },
         {
             "key": "蜡笔",
@@ -200,18 +220,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lb.json?"
-        },
-        {
-            "key": "小米",
-            "name": "小米｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/xm.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lb.json"
         },
         {
             "key": "至臻",
@@ -222,7 +231,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/zz.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/zz.json"
         },
         {
             "key": "多多",
@@ -233,7 +242,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/yyds.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/yyds.json"
         },
         {
             "key": "欧哥",
@@ -244,7 +253,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/og.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/og.json"
         },
         {
             "key": "二小",
@@ -255,7 +264,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/ex.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/ex.json"
         },
         {
             "key": "百家",
@@ -266,7 +275,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/bj.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/bj.json"
         },
         {
             "key": "大玩",
@@ -277,7 +286,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/dawo.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/dawo.json"
         },
         {
             "key": "虎斑",
@@ -288,7 +297,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hb.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hb.json"
         },
         {
             "key": "闪电",
@@ -299,7 +308,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/sd.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/sd.json"
         },
         {
             "key": "下饭",
@@ -310,7 +319,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/xf.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/xf.json"
         },
         {
             "key": "团长",
@@ -335,7 +344,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lj.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lj.json"
         },
         {
             "key": "海绵",
@@ -350,7 +359,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hm.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hm.json"
         },
         {
             "key": "Pan1",
@@ -365,7 +374,22 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/pan1.json?"
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/pan1.json"
+        },
+        {
+            "key": "夸父",
+            "name": "夸父｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/kf.json"
         },
         {
             "key": "趣盘",
@@ -422,10 +446,23 @@
             "key": "河马短剧",
             "name": "河马｜短剧",
             "type": 3,
-            "api": "csp_AppHMDJ",
+            "api": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/河马短剧.py",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "偷乐短剧",
+            "name": "偷乐｜短剧",
+            "type": 3,
+            "api": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/偷乐短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "爱看短剧",
@@ -437,16 +474,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
-        },
-        {
-            "key": "爱我短剧",
-            "name": "爱我｜短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/爱我短剧.json"
         },
         {
             "key": "短剧网",
@@ -474,19 +501,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-        },
-        {
-            "key": "金牌影视",
-            "name": "金牌｜影视",
-            "type": 3,
-            "api": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/金牌影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": {
-                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-            }
         },
         {
             "key": "猎手影视",
@@ -1668,6 +1682,16 @@
             }
         },
         {
+            "key": "短剧大全",
+            "name": "短剧｜大全",
+            "type": 3,
+            "api": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/quark.min.js",
+            "ext": "https://tvbox.919588.xyz/ltxxjs/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/短剧大全.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "AList",
             "name": "AList｜合集",
             "type": 3,
@@ -2125,6 +2149,14 @@
             "name": "AI直播",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "Guovin",
+            "type": 0,
+            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "playerType": 2,
             "timeout": 10
