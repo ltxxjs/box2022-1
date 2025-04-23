@@ -2145,7 +2145,15 @@
         }
     ],
     "lives": [
-        {
+         {
+            "name": "iptv365",
+            "type": 0,
+            "url": "https://live.iptv365.org/live.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 2,
+            "timeout": 10
+        },
+     {
             "name": "AI直播",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
