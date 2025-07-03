@@ -1,4 +1,4 @@
-//https://github.moeyy.xyz/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/潇洒/api.json,https://gh-proxy.com,https://gh-proxy.net/,https://ghproxy.cn/,https://github.3x25.com/
+//https://github.moeyy.xyz/https://ghproxy.cfd/https://raw.githubusercontent.com/ltxxjs/tvboxtg/main/潇洒/api.json,https://gh-proxy.com,https://gh-proxy.net/,https://ghproxy.cn/,https://github.3x25.com/
 
  //https://tvbox.919588.xyz/ltxxjs/box2022-1/refs/heads/main/jsxj.json
 {
@@ -285,7 +285,7 @@
             "key": "哔哩视频",
             "name": "哔哩｜视频",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/哔哩视频.py",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/哔哩视频.py",
             "ext": {
                 "json": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
@@ -294,29 +294,29 @@
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/腾讯视频.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷｜视频",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/优酷视频.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果｜视频",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/芒果视频.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/芒果视频.js"
         },
         {
             "key": "爱奇艺",
             "name": "爱奇异｜视频",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/爱奇艺.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/爱奇艺.js"
         },
         {
             "key": "三六零",
@@ -338,7 +338,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/哔哩合集.json",
+                "json": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/哔哩合集.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
@@ -350,7 +350,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/wogg.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/wogg.json"
         },
         {
             "key": "木偶",
@@ -360,7 +360,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/mogg.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/mogg.json"
         },
         {
             "key": "蜡笔",
@@ -371,7 +371,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lb.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lb.json"
         },
         {
             "key": "至臻",
@@ -382,7 +382,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/zz.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/zz.json"
         },
         {
             "key": "多多",
@@ -393,7 +393,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/yyds.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/yyds.json"
         },
         {
             "key": "欧哥",
@@ -404,7 +404,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/og.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/og.json"
         },
         {
             "key": "二小",
@@ -415,7 +415,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/ex.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/ex.json"
         },
         {
             "key": "百家",
@@ -426,7 +426,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/bj.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/bj.json"
         },
         {
             "key": "大玩",
@@ -437,7 +437,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/dawo.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/dawo.json"
         },
         {
             "key": "虎斑",
@@ -448,7 +448,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hb.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hb.json"
         },
         {
             "key": "闪电",
@@ -459,7 +459,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/sd.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/sd.json"
         },
         {
             "key": "下饭",
@@ -470,7 +470,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/xf.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/xf.json"
         },
         {
             "key": "团长",
@@ -495,7 +495,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lj.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/lj.json"
         },
         {
             "key": "海绵",
@@ -510,7 +510,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hm.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/hm.json"
         },
         {
             "key": "Pan1",
@@ -525,7 +525,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/pan1.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/pan1.json"
         },
         {
             "key": "夸父",
@@ -540,7 +540,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/kf.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/kf.json"
         },
         {
             "key": "趣盘",
@@ -570,7 +570,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/aliyunpansearch.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/aliyunpansearch.json"
         },
         {
             "key": "盘库",
@@ -597,7 +597,7 @@
             "key": "河马短剧",
             "name": "河马｜短剧",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/河马短剧.py",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/河马短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -608,7 +608,7 @@
             "key": "偷乐短剧",
             "name": "偷乐｜短剧",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/偷乐短剧.py",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/偷乐短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -619,7 +619,7 @@
             "key": "爱看短剧",
             "name": "爱看｜短剧",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/爱看短剧.py",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/爱看短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -631,7 +631,7 @@
             "name": "短剧网｜短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/短剧网.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/短剧网.json"
         },
         {
             "key": "短剧屋",
@@ -641,7 +641,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/短剧屋.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/短剧屋.json"
         },
         {
             "key": "QD4K",
@@ -667,7 +667,7 @@
             "key": "金牌影视",
             "name": "金牌｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/金牌影视.py",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/金牌影视.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -680,7 +680,7 @@
             "key": "猎手影视",
             "name": "猎手｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/猎手影视.py",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/猎手影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -691,7 +691,7 @@
             "key": "火车影视",
             "name": "火车｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/火车影视.py",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/火车影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -702,7 +702,7 @@
             "key": "美帕影视",
             "name": "美帕｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/美帕影视.py",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/美帕影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -713,7 +713,7 @@
             "key": "嗨皮影视",
             "name": "嗨皮｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/嗨皮影视.py",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/嗨皮影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -906,8 +906,8 @@
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/采集之王.js?type=url&params=.https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/采集静态.json$1$1"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/采集之王.js?type=url&params=.https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/采集静态.json$1$1"
         },
         {
             "key": "爱看机器人",
@@ -923,42 +923,42 @@
             "name": "可可｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/可可影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/可可影视.json"
         },
         {
             "key": "海纳影视",
             "name": "海纳｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/海纳影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/海纳影视.json"
         },
         {
             "key": "面包影视",
             "name": "面包｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/面包影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/面包影视.json"
         },
         {
             "key": "永乐影视",
             "name": "永乐｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/永乐影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/永乐影视.json"
         },
         {
             "key": "雪糕影视",
             "name": "雪糕｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/雪糕影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/雪糕影视.json"
         },
         {
             "key": "流光影视",
             "name": "流光｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/流光影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/流光影视.json"
         },
         {
             "key": "一起影视",
@@ -993,22 +993,22 @@
             "key": "思古影视",
             "name": "思古｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/思古影视.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/思古影视.js"
         },
         {
             "key": "魔力高清",
             "name": "魔力｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/魔力高清.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/魔力高清.js"
         },
         {
             "key": "碟调影视",
             "name": "碟调｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/碟调影视.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/碟调影视.js"
         },
         {
             "key": "八号影视",
@@ -1018,7 +1018,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/八号影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/八号影视.json"
         },
         {
             "key": "盒子影视",
@@ -1028,7 +1028,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/盒子影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/盒子影视.json"
         },
         {
             "key": "骚火影视",
@@ -1038,7 +1038,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/骚火影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/骚火影视.json"
         },
         {
             "key": "电影牛",
@@ -1048,28 +1048,28 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/电影牛.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/电影牛.json"
         },
         {
             "key": "剧圈圈",
             "name": "剧圈圈｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/剧圈圈.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/剧圈圈.js"
         },
         {
             "key": "看了么",
             "name": "看了么｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/看了么.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/看了么.js"
         },
         {
             "key": "茶杯狐",
             "name": "茶杯狐｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/茶杯狐.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/茶杯狐.js"
         },
         {
             "key": "1905",
@@ -1283,28 +1283,28 @@
             "style": {
                 "type": "list"
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/哆啦新番社.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/哆啦新番社.json"
         },
         {
             "key": "56动漫",
             "name": "56｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/56动漫.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/56动漫.js"
         },
         {
             "key": "NT动漫",
             "name": "NT｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/NT动漫.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/NT动漫.js"
         },
         {
             "key": "Anime1",
             "name": "Anime1｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/Anime1.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/Anime1.js"
         },
         {
             "key": "曼波动漫",
@@ -1352,78 +1352,78 @@
             "key": "动画片",
             "name": "动画片｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/动画片大全.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/动画片大全.js"
         },
         {
             "key": "路漫漫",
             "name": "路漫漫｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/路漫漫.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/路漫漫.js"
         },
         {
             "key": "动漫岛",
             "name": "动漫岛｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/动漫岛.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/动漫岛.js"
         },
         {
             "key": "去看吧",
             "name": "去看吧｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/去看吧.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/去看吧.js"
         },
         {
             "key": "爱弹幕",
             "name": "爱弹幕｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/爱弹幕.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/爱弹幕.js"
         },
         {
             "key": "异世界",
             "name": "异世界｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/异世界.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/异世界.js"
         },
         {
             "key": "好看动漫",
             "name": "好看｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/好看动漫.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/好看动漫.js"
         },
         {
             "key": "奇米动漫",
             "name": "奇米｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/奇米动漫.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/奇米动漫.js"
         },
         {
             "key": "怡萱动漫",
             "name": "怡萱｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/怡萱动漫.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/怡萱动漫.js"
         },
         {
             "key": "花子动漫",
             "name": "花子｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/花子动漫.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/花子动漫.js"
         },
         {
             "key": "樱花动漫",
             "name": "樱花｜动漫",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/樱花动漫.js"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/drpy2.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/樱花动漫.js"
         },
         {
             "key": "荐片",
@@ -1441,7 +1441,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/修罗影视.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/修罗影视.json"
         },
         {
             "key": "七味",
@@ -1507,7 +1507,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/电影港.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/电影港.json"
         },
         {
             "key": "狐狸君",
@@ -1518,7 +1518,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/狐狸君.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/狐狸君.json"
         },
         {
             "key": "布谷TV",
@@ -1528,7 +1528,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/布谷TV.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XBPQ/布谷TV.json"
         },
         {
             "key": "BT天堂",
@@ -1538,7 +1538,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/BT天堂.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/XYQHiker/BT天堂.json"
         },
         {
             "key": "Mp4电影",
@@ -1588,7 +1588,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/aliShare.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/aliShare.json"
         },
         {
             "key": "夸克云盘",
@@ -1602,7 +1602,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/quarkShare.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/quarkShare.json"
         },
         {
             "key": "UC",
@@ -1616,7 +1616,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/ucShare.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/ucShare.json"
         },
         {
             "key": "百度云盘",
@@ -1635,8 +1635,8 @@
             "key": "短剧合集",
             "name": "短剧｜合集",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/quark.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/短剧合集.js",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/quark.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/短剧合集.js",
             "style": {
                 "type": "list"
             }
@@ -1645,8 +1645,8 @@
             "key": "短剧大全",
             "name": "短剧｜大全",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/quark.min.js",
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/短剧大全.js",
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/quark.min.js",
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/js/短剧大全.js",
             "style": {
                 "type": "list"
             }
@@ -1662,13 +1662,13 @@
             "style": {
                 "type": "list"
             },
-            "ext": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/alist.json"
+            "ext": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/json/alist.json"
         },
         {
             "key": "网络直播",
             "name": "网络｜直播",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/网络直播.py"
+            "api": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/py/网络直播.py"
         },
         {
             "key": "88看球",
@@ -2129,7 +2129,7 @@
    {
             "name": "AI直播",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/ltxxjs/iptv-api/refs/heads/master/output/result.txt",
+            "url": "https://ghproxy.cfd/https://raw.githubusercontent.com/ltxxjs/iptv-api/refs/heads/master/output/result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "timeout": 10
         },
@@ -2138,14 +2138,14 @@
  {
             "name": "AI直播",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "url": "https://gh-proxy.com/https://ghproxy.cfd/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "timeout": 10
         },
         {
             "name": "AI直播+",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u",
+            "url": "https://gh-proxy.com/https://ghproxy.cfd/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "timeout": 10
         },
