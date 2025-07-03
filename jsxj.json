@@ -2,7 +2,7 @@
 
  //https://tvbox.919588.xyz/ltxxjs/box2022-1/refs/heads/main/jsxj.json
 {
-    "spider": "https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
+    "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/ls125781003/tvboxtg/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
